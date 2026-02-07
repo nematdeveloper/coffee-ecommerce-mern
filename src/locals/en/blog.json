@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Blog"
+  }
+  ,
+  "search": {
+    "placeholder": "Search",
+    "searchIcon": "Search icon",
+    "inputLabel": "Search blog posts"
+  }
+  ,
+  "errors": {
+    "fetchFailed": "Failed to fetch blog details",
+    "blogNotFound": "Blog post not found"
+  },
+  "buttons": {
+    "retry": "Retry",
+    "backToBlogs": "Back to Blogs",
+    "backToBlogsAria": "Go back to all blog posts",
+    "previousImage": "Previous image",
+    "nextImage": "Next image",
+    "goToImage": "Go to image {{number}}",
+    "backToTop": "Back to Top"
+  },
+  "content": {
+    "minRead": "min read",
+    "tags": "Tags"
+  },
+  "images": {
+    "altText": "{{title}} - Image {{index}}",
+    "counter": "Image {{current}} of {{total}}"
+  }
+
+
+}

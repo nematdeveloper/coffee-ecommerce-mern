@@ -1,0 +1,21 @@
+/* src/admin/admin.css */
+.admin-panel,
+.admin-panel * {
+  direction: rtl !important;
+  text-align: right !important;
+}
+
+/* Fix specific components if needed */
+.admin-panel .dropdown-menu {
+  right: 0 !important;
+  left: auto !important;
+}
+
+.admin-panel .form-input {
+  text-align: right;
+}
+
+.admin-panel .rtl-grid {
+  display: flex;
+  flex-direction: row-reverse;
+}

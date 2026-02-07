@@ -1,0 +1,85 @@
+{
+  "header": {
+    "faqs": "FAQs",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Have a question? We're here to help.",
+    "searchPlaceholder": "Search questions...",
+    "clearSearch": "Clear search"
+  }
+  ,
+  "contactSection": {
+    "avatarAlt1": "Support team member 1",
+    "avatarAlt2": "Support team member 2",
+    "avatarAlt3": "Support team member 3",
+    "avatarAlt4": "Support team member 4",
+    "title": "Still have a question?",
+    "subtitle": "Can't find the answer you're looking for? Please chat to our friendly team.",
+    "contactButton": "Contact Us",
+    "contactButtonAria": "Contact us via WhatsApp"
+  
+}
+,
+  "questions": {
+    "q1": {
+      "question": "What is your return policy?",
+      "answer": "We offer a 30-day return policy for all unused products in their original packaging."
+    },
+    "q2": {
+      "question": "How long does shipping take?",
+      "answer": "Shipping typically takes 3-5 business days for domestic orders and 7-14 days for international orders."
+    },
+    "q3": {
+      "question": "Do you offer international shipping?",
+      "answer": "Yes, we ship to over 50 countries worldwide. Shipping costs and times vary by destination."
+    },
+    "q4": {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, PayPal, Apple Pay, and Google Pay."
+    },
+    "q5": {
+      "question": "How can I track my order?",
+      "answer": "Once your order ships, you'll receive a tracking number via email. You can also track your order from your account dashboard."
+    },
+    "q6": {
+      "question": "Do you have a physical store?",
+      "answer": "Yes, we have a flagship store in San Francisco. Check our store locator for address and hours."
+    },
+    "q7": {
+      "question": "Can I change or cancel my order?",
+      "answer": "You can change or cancel your order within 1 hour of placing it. Contact customer service for assistance."
+    },
+    "q8": {
+      "question": "What is your warranty policy?",
+      "answer": "All products come with a 1-year manufacturer's warranty. Extended warranties are available for purchase."
+    },
+    "q9": {
+      "question": "How do I contact customer support?",
+      "answer": "You can contact us via email at support@example.com, phone at +1-234-567-8901, or live chat on our website."
+    },
+    "q10": {
+      "question": "Do you offer bulk discounts?",
+      "answer": "Yes, we offer volume discounts for orders over 50 units. Contact our sales team for a custom quote."
+    },
+    "q11": {
+      "question": "Are your products eco-friendly?",
+      "answer": "Yes, we use sustainable materials and eco-friendly packaging for all our products."
+    },
+    "q12": {
+      "question": "How do I create an account?",
+      "answer": "Click the 'Sign Up' button in the top right corner and follow the simple registration process."
+    }
+  },
+  "search": {
+    "noResultsTitle": "No questions found",
+    "noResultsFor": "No results for",
+    "tryDifferentKeywords": "Try different keywords or browse all questions below",
+    "showAllQuestions": "All questions",
+    "found": "Found",
+    "resultSingular": " result",
+    "resultPlural": " results",
+    "for": "for",
+    "expanded": "expanded",
+    "collapsed": "collapsed"
+  }
+
+}

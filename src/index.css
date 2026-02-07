@@ -1,0 +1,44 @@
+/* src/index.css */
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #4E2C6E;
+  --color-text: #303030;
+  --color-text-second: #ADADAD;
+  --color-about: #919191;
+  
+  /* CHANGE THIS: Use var(--font-primary) instead of 'Inter' */
+  --font-sans: var(--font-primary, 'Poppins'), -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* Font variables */
+:root {
+  --font-primary: 'Poppins', sans-serif;
+  --font-latin: 'Poppins', sans-serif;
+  --font-arabic: 'Vazirmatn', sans-serif;
+}
+
+/* Apply font to everything - BUT be careful with !important */
+body {
+  font-family: var(--font-primary) !important;
+}
+
+/* REMOVE this - it conflicts with Tailwind */
+/* * {
+  font-family: var(--font-primary) !important;
+} */
+
+/* Language-specific styles */
+html[lang="en"] {
+  --font-primary: 'Poppins', sans-serif;
+}
+
+html[lang="fa"],
+html[lang="ar"] {
+  --font-primary: 'Vazirmatn', sans-serif;
+  line-height: 1.8;
+}
+body{
+  margin: 0;
+  padding: 0;
+}

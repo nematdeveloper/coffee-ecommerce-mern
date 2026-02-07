@@ -1,0 +1,46 @@
+{
+  "header": {
+    "title": "Company Documents"
+  },
+  "buttons": {
+    "download": "Download",
+    "downloadAria": "Download {{fileName}}"
+  },
+  "alerts": {
+    "downloadNotConfigured": "File \"{{fileName}}\" download link not configured yet.",
+    "downloading": "Downloading {{fileName}}..."
+  },
+  "console": {
+    "downloadStarted": "Download started: {{fileName}}"
+  },
+  "download": {
+    "defaultFileName": "download"
+  },
+  "files": {
+    "file1": {
+      "name": "Company Profile 2024",
+      "type": "PDF",
+      "size": "2.4 MB"
+    },
+    "file2": {
+      "name": "Annual Financial Report Q4",
+      "type": "PDF",
+      "size": "5.1 MB"
+    },
+    "file3": {
+      "name": "Product Catalog & Pricing",
+      "type": "PDF",
+      "size": "3.2 MB"
+    },
+    "file4": {
+      "name": "Corporate Brochure Digital",
+      "type": "PDF",
+      "size": "1.8 MB"
+    },
+    "file5": {
+      "name": "Client Case Study Success",
+      "type": "PDF",
+      "size": "4.7 MB"
+    }
+  }
+}

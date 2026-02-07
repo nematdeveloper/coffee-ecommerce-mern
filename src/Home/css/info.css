@@ -1,0 +1,39 @@
+.info-container {
+  width: 100%;
+  padding: 20px;
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  text-align: center;
+  animation: fadeSlide 0.8s ease-in-out;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.info-container img {
+  width: 50%;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+
+.info-container h2 {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.info-container p {
+  font-size: 14px;
+  color: #555;
+}
+
+@keyframes fadeSlide {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

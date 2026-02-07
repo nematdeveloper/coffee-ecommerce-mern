@@ -1,0 +1,56 @@
+{
+  "header": {
+    "title": "Our Values"
+  },
+  "strategy": {
+    "title": "Company Strategy",
+    "description1": "Our purpose is to bring premium Afghan saffron to the world through quality, expertise, and global standards. We deliver exceptional saffron and professional services with continuous improvement and innovation.",
+    "description2": "Guided by excellence, integrity, innovation, sustainability, and customer delight, we aim to be a trusted global leader. By responsibly sourcing and supporting farmers, we consistently exceed expectations and build lasting value for our customers.",
+    "imageAlt": "Strategy overview image"
+  },
+  "overview": {
+    "title": "Company Overview",
+    "description1": "Rayan Herat Saffron is a leading processor, packer, and exporter of premium Afghan saffron, with over a decade of expertise in sourcing, processing, and international trade. Officially established in 2019, the company has been part of the saffron value chain since 2010.",
+    "description2": "Working with approved farmers and suppliers, Rayan Herat Saffron operates a modern facility that preserves quality and authenticity. Compliant with FSSC 22000 and U.S. FDA standards, the company offers a diverse range of products—from Extra Super Nagin to Pushal Grade B—in retail or bulk formats for wholesalers, distributors, and brand owners worldwide.",
+    "imageAlt": "Overview image description"
+  },
+  "features": {
+    "feature1": {
+      "title": "Excellence",
+      "text": "Delivering the finest saffron, every time"
+    },
+    "feature2": {
+      "title": "Integrity",
+      "text": "Honest, transparent, and trusted globally"
+    },
+    "feature3": {
+      "title": "Sustainability",
+      "text": "Supporting farmers and responsible sourcing"
+    },
+    "feature4": {
+      "title": "Customer Delight",
+      "text": "Exceeding expectations with every product"
+    }
+  },
+  "members": {
+    "ceo": {
+      "name": "Abdul Ali Noor Ahmadi",
+      "role": "President",
+      "info": "Mr. Noor Ahmadi completed his diploma and gained nearly eight years of experience in the food industry before co-founding Rayan Saffron Company in 2018. Since then, he has been actively leading and developing the company within the saffron sector."
+    },
+    "cto": {
+      "name": "Abdul Khaleq Khodadady",
+      "role": "Vice President",
+      "info": "Mr. Khodadadi, with 16 years of experience in saffron production and processing, has served as Vice President of Rayan Saffron Company since 2018. An innovative team leader, he brings over two decades of expertise in human resources, financial management, project management, and training across various companies. As Vice President, Mr. Khodadadi oversees marketing strategies, employee training and recruitment, financial management and procurement, and the supervision of daily operations and sales. He ensures that all company activities are executed efficiently and in alignment with Rayan Saffron’s strategic objectives and business plans."
+    },
+    "financeManager": {
+      "name": "Naser Ahmad Salehi",
+      "role": "Finance & Admin Manager",
+      "info": "Naser Ahmad Salehi has been serving as Finance and Admin Manager at Rayan Saffron Company since 2020. He holds a BBA from Asia University (2018) and has participated in various workshops and seminars on workforce development, accounting, communication management, and leadership. In his role, Mr. Salehi oversees the company’s financial accounts, prepares financial statements, records transactions, and manages all activities related to the finance and administration departments, ensuring accuracy, efficiency, and compliance with company standards."
+    }
+  },
+  "foodSafety": {
+    "title": "Food Safety Policy",
+    "description": "Rayan Herat Saffron is committed to ensuring the highest standards of food safety across all stages of saffron sourcing, processing, packaging, and distribution, recognizing that everyone in the organization shares responsibility for protecting our customers, consumers, and the integrity of the food chain. We uphold a positive food safety culture guided by international and national standards, including ISO 9001, ISO 3632, ISO 22000, FSSC 22000, HACCP, and Afghanistan National Standards (ANSA), by operating efficiently while complying with all legal and regulatory requirements, applying modern food science, technology, and industry best practices, communicating and implementing food safety practices at all levels, providing personnel with training, tools, and guidance to perform their work hygienically and professionally, promoting hygiene and cleanliness among staff, contractors, suppliers, and visitors, and continuously improving processes to deliver safe, high-quality saffron products. This policy is approved and endorsed by Abdul Khaleq Khodadady, Vice President, and reflects our commitment to excellence and consumer safety."
+  }
+}

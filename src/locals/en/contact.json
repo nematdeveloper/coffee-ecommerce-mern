@@ -1,0 +1,147 @@
+{
+  "header": {
+    "title": "Contact us"
+  }
+  
+  ,
+  "header": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible."
+  },
+  "contactInfo": {
+    "title": "Contact Information",
+    "phone": {
+      "title": "Phone",
+      "details": "+1 (234) 567-8901",
+      "description": "Mon-Fri from 9am to 6pm"
+    },
+    "email": {
+      "title": "Email",
+      "details": "contact@example.com",
+      "description": "We reply within 24 hours"
+    },
+    "office": {
+      "title": "Office",
+      "details": "123 Innovation Drive",
+      "description": "San Francisco, CA 94107"
+    }
+  },
+  "businessHours": {
+    "title": "Business Hours",
+    "weekdays": {
+      "days": "Monday - Friday",
+      "hours": "9:00 AM - 6:00 PM"
+    },
+    "saturday": {
+      "days": "Saturday",
+      "hours": "10:00 AM - 4:00 PM"
+    },
+    "sunday": {
+      "days": "Sunday",
+      "hours": "Closed"
+    }
+  },
+  "form": {
+    "title": "Send us a Message",
+    "subtitle": "Fill out the form below and we'll get back to you promptly.",
+    "fields": {
+      "name": {
+        "label": "Full Name *",
+        "placeholder": "John Doe",
+        "ariaLabel": "Enter your full name"
+      },
+      "email": {
+        "label": "Email Address *",
+        "placeholder": "john@example.com",
+        "ariaLabel": "Enter your email address"
+      },
+      "message": {
+        "label": "Your Message *",
+        "placeholder": "Tell us how we can help you...",
+        "ariaLabel": "Enter your message"
+      }
+    },
+    "submit": {
+      "text": "Send Message",
+      "sending": "Sending...",
+      "loading": "Sending message",
+      "ariaLabel": "Submit contact form"
+    },
+    "privacyNote": "By submitting this form, you agree to our privacy policy. We promise not to spam you."
+  },
+  "validation": {
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "messageRequired": "Message is required"
+  },
+  "alerts": {
+    "validation": {
+      "title": "Validation Error",
+      "message": "Please fill all required fields correctly"
+    },
+    "success": {
+      "title": "Success!",
+      "message": "Your message has been sent successfully. We'll get back to you soon!"
+    },
+    "error": {
+      "title": "Oops!",
+      "message": "Failed to send message. Please try again later or contact us directly."
+    }
+  },
+  "footer": {
+    "prefix": "Prefer to call? Reach us directly at"
+  
+}
+,
+  "about": {
+    "title": "About Us",
+    "subtitle": "We're passionate about creating exceptional digital experiences.",
+    "description": "Our team combines creativity and technical excellence to deliver results that truly matter."
+  },
+  "values": {
+    "title": "Our Core Values",
+    "innovation": {
+      "title": "Innovation",
+      "description": "Constantly pushing boundaries with creative solutions"
+    },
+    "excellence": {
+      "title": "Excellence",
+      "description": "Committed to delivering outstanding quality in everything we do"
+    },
+    "collaboration": {
+      "title": "Collaboration",
+      "description": "Working together to achieve greater results for our clients"
+    },
+    "integrity": {
+      "title": "Integrity",
+      "description": "Building trust through transparency and ethical practices"
+    }
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To empower businesses with innovative digital solutions that enhance engagement and drive sustainable growth."
+  },
+  "social": {
+    "title": "Connect With Us",
+    "description": "Follow us for updates, insights, and behind-the-scenes content.",
+    "facebook": {
+      "name": "Facebook",
+      "ariaLabel": "Follow us on Facebook"
+    },
+    "instagram": {
+      "name": "Instagram",
+      "ariaLabel": "Follow us on Instagram"
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "ariaLabel": "Follow us on LinkedIn"
+    },
+    "twitter": {
+      "name": "Twitter",
+      "ariaLabel": "Follow us on Twitter"
+    }
+  }
+
+
+}

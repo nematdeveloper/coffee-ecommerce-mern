@@ -1,0 +1,111 @@
+{
+  "header": {
+    "title": "Certifications & Awards",
+    "subtitle": "Our commitment to quality validated by international standards"
+  }
+  ,
+  "featuredCertificate": {
+    "featuredBadge": "Featured Jawaz",
+    "issued": "Issued",
+    "viewDetails": "View Jawaz Details",
+    "viewDetailsButton": "View jawaz details",
+    "visitIssuer": "Visit Issuer",
+    "visitIssuerLink": "Visit jawaz issuer website"
+  
+}
+
+,
+  "filter": {
+    "title": "Filter Certificates",
+    "filterIcon": "Filter icon",
+    "filters": {
+      "all": {
+        "label": "All Certificates",
+        "ariaLabel": "Show all certificates"
+      },
+      "award": {
+        "label": "Awards",
+        "ariaLabel": "Filter by awards"
+      },
+      "foodSafety": {
+        "label": "Food Safety",
+        "ariaLabel": "Filter by food safety certificates"
+      }
+    }
+  }
+
+  ,
+  "modal": {
+    "closeButton": "Close modal",
+    "close": "Close",
+    "closeModalButton": "Close certificate modal",
+    "visitWebsite": "Visit Issuer Website",
+    "visitWebsiteButton": "Visit issuer website",
+    "sections": {
+      "issuer": "ISSUER",
+      "description": "DESCRIPTION",
+      "issueDate": "ISSUE DATE",
+      "certificateType": "CERTIFICATE TYPE"
+    },
+    "typeLabels": {
+      "award": "award",
+      "foodSafety": "food safety",
+      "certificate": "certificate"
+    }
+  }
+,
+  "certificates": {
+    "iso22000": {
+      "title": "ISO 22000:2018 Food Safety Management",
+      "issuer": "International Standards Organization",
+      "date": "2024",
+      "description": "International food safety management certification ensuring highest quality standards."
+    },
+    "organic": {
+      "title": "Global Organic Certified",
+      "issuer": "Control Union Certifications",
+      "date": "2023",
+      "description": "Certified organic saffron production from farm to packaging."
+    },
+    "worldBest": {
+      "title": "World's Best Saffron Award",
+      "issuer": "World Spice Association",
+      "date": "2024",
+      "description": "Awarded for exceptional quality and aroma profile."
+    },
+    "haccp": {
+      "title": "HACCP Certification",
+      "issuer": "Food Safety System Certification",
+      "date": "2023",
+      "description": "Hazard Analysis Critical Control Point food safety certification."
+    },
+    "goldQuality": {
+      "title": "Gold Quality Award",
+      "issuer": "International Taste Institute",
+      "date": "2024",
+      "description": "Recognition for superior saffron quality standards."
+    },
+    "halal": {
+      "title": "Halal Certified",
+      "issuer": "Islamic Food and Nutrition Council",
+      "date": "2023",
+      "description": "Halal certification for production and processing."
+    }
+  }
+
+  ,
+  "card": {
+    "viewDetails": "View Details",
+    "viewDetailsButton": "View details for {{title}}",
+    "typeLabels": {
+      "award": "award",
+      "foodSafety": "food safety",
+      "organic": "organic",
+      "quality": "quality"
+    }
+  }
+
+
+
+
+}

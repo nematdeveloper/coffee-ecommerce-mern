@@ -1,0 +1,216 @@
+.scene {
+  width: 100%;
+  max-width: 900px;
+  height: 280px; /* Reduced for mobile */
+  margin: auto;
+  perspective: 800px; /* Reduced for mobile */
+}
+
+.carousel {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  animation: rotate 20s linear infinite;
+  transform: rotateX(-5deg); /* Reduced tilt for mobile */
+}
+
+.carousel-item {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform-style: preserve-3d;
+  transform:
+    translate(-50%, -50%)
+    rotateY(calc(360deg / 4 * var(--i)))
+    translateZ(120px); /* Much smaller for mobile */
+}
+
+.carousel-item img {
+  width: 100% !important; /* Much smaller for mobile */
+  height: 160px; /* Much smaller for mobile */
+ border-radius: 0 !important;
+  object-fit: cover;
+  box-shadow: 0 8px 16px rgba(0,0,0,.45);
+}
+
+.carousel:hover {
+  animation-play-state: paused;
+}
+
+.carousel-item img:active {
+  transform: scale(1.3); /* Bigger zoom for mobile */
+  transition: transform 0.3s ease;
+  z-index: 10;
+}
+
+/* Animation */
+@keyframes rotate {
+  from {
+    transform: rotateX(-5deg) rotateY(0deg);
+  }
+  to {
+    transform: rotateX(-5deg) rotateY(360deg);
+  }
+}
+
+/* Small tablets (600px and up) */
+@media (min-width: 600px) {
+  .scene {
+    height: 350px;
+    perspective: 1000px;
+  }
+  
+  .carousel {
+    transform: rotateX(-6deg);
+  }
+  
+  .carousel-item {
+    transform:
+      translate(-50%, -50%)
+      rotateY(calc(360deg / 4 * var(--i)))
+      translateZ(180px);
+  }
+  
+  .carousel-item img {
+    width: 250px;
+    height: 160px;
+    border-radius: 10px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .scene {
+    height: 450px;
+    perspective: 1200px;
+  }
+  
+  .carousel {
+    transform: rotateX(-7deg);
+  }
+  
+  .carousel-item {
+    transform:
+      translate(-50%, -50%)
+      rotateY(calc(360deg / 4 * var(--i)))
+      translateZ(250px);
+  }
+  
+  .carousel-item img {
+    width: 350px;
+    height: 220px;
+    border-radius: 12px;
+    box-shadow: 0 12px 24px rgba(0,0,0,.45);
+  }
+}
+
+/* Large devices (desktops, 1024px and up) */
+@media (min-width: 1024px) {
+  .scene {
+    height: 550px;
+    perspective: 1400px;
+  }
+  
+  .carousel {
+    transform: rotateX(-8deg);
+  }
+  
+  .carousel-item {
+    transform:
+      translate(-50%, -50%)
+      rotateY(calc(360deg / 4 * var(--i)))
+      translateZ(320px);
+  }
+  
+  .carousel-item img {
+    width: 450px;
+    height: 280px;
+    border-radius: 14px;
+    box-shadow: 0 18px 36px rgba(0,0,0,.45);
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .scene {
+    height: 600px;
+    perspective: 1600px;
+  }
+  
+  .carousel-item {
+    transform:
+      translate(-50%, -50%)
+      rotateY(calc(360deg / 4 * var(--i)))
+      translateZ(420px);
+  }
+  
+  .carousel-item img {
+    width: 550px;
+    height: 320px;
+    border-radius: 16px;
+    box-shadow: 0 25px 50px rgba(0,0,0,.45);
+  }
+}
+
+/* For very large screens */
+@media (min-width: 1400px) {
+  .carousel-item img {
+    width: 680px;
+    height: 380px;
+  }
+}
+
+/* Adjust animation for mobile */
+@media (max-width: 599px) {
+  .carousel {
+    animation: rotate 18s linear infinite;
+  }
+}
+
+/* Touch device optimizations */
+@media (hover: none) and (pointer: coarse) {
+  .carousel {
+    animation-play-state: running;
+  }
+  
+  /* Pause on touch */
+  .carousel:active {
+    animation-play-state: paused;
+  }
+  
+  /* Reset hover effect for touch */
+  .carousel:hover {
+    animation-play-state: running;
+  }
+  
+  /* Better touch feedback */
+  .carousel-item img {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  .carousel-item img:active {
+    transform: scale(1.4);
+  }
+}
+
+/* Very small phones (less than 375px wide) */
+@media (max-width: 374px) {
+  .scene {
+    height: 240px;
+    perspective: 600px;
+  }
+  
+  .carousel-item {
+    transform:
+      translate(-50%, -50%)
+      rotateY(calc(360deg / 4 * var(--i)))
+      translateZ(90px);
+  }
+  
+  .carousel-item img {
+    width: 150px;
+    height: 100px;
+    border-radius: 6px;
+  }
+}

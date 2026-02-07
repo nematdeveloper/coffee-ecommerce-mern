@@ -1,0 +1,35 @@
+.card {
+  position: relative; /* needed for the button to be positioned relative to the card */
+  width: 313px;
+  height: 415px;
+  border-radius: 19px;
+  border: 1px solid #ccc;
+  padding: 16px;
+
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  
+ 
+}
+
+.slanted-button {
+  position: absolute; /* position relative to card */
+  bottom: -12px; /* pull the button outside the card */
+  left: 61%;
+  transform: translateX(-50%);
+  width: 244px;
+  height: 70px;
+
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+
+  /* Slanted left side */
+  clip-path: polygon(15px 0%, 100% 0%, 100% 100%, 0% 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

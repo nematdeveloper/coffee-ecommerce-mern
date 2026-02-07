@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "certificates": "Certificates",
+    "downloadData": "Download Data",
+    "blog": "Blog",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "auth": "Login / Sign Up",
+    "logout": "Logout",
+    "admin": "Admin Panel"
+  },
+  "auth": {
+    "logoutConfirmTitle": "Are you sure?",
+    "logoutConfirmText": "You will be logged out of your account.",
+    "yes": "Yes",
+    "cancel": "Cancel",
+    "logoutSuccessTitle": "Logged Out",
+    "logoutSuccessText": "You have successfully logged out.",
+    "admin": "Admin Panel",
+    "loginSignup": "Login / Sign Up"
+  },
+   "footer": {
+    "links": "Links",
+    "solutions": "Solutions",
+    "team": "Our Team",
+    "faq": "FAQs",
+    "bestProducts": "Best Products",
+    "socialMedia": "Social Media",
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "whatsapp": "WhatsApp"
+    },
+    "subscribe": "Subscribe",
+    "rights": "All rights reserved"
+  },
+  "newsletter": {
+    "description": "Join our newsletter to stay up to date with features and updates and releases",
+    "placeholder": "Enter your email",
+    "button": "Subscribe",
+    "disclaimer": "By subscribing to our newsletter you agree with our Privacy Policy and provide consent to receive updates from our company",
+    "enterEmail": "Please enter your email",
+    "success": "You joined successfully!",
+    "tryLater": "Please try later",
+    "error": "Something went wrong"
+  }
+  ,
+  "login": {
+    "error": "Error",
+    "success": "Success",
+    "somethingWentWrong": "Something went wrong!",
+    "accountCreatedSuccess": "Account created successfully!",
+    "networkError": "Network error!",
+    "rayanSaffronLogo": "Rayan Saffron Logo",
+    "signUp": "Sign Up",
+    "enterEmailPassword": "Please enter your email and password to create your account.",
+    "email": "Email",
+    "enterYourEmail": "Enter your email",
+    "password": "Password",
+    "enterYourPassword": "Enter your password",
+    "creatingAccount": "Creating Account...",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "logIn": "Log in",
+    "rayanSaffron": "Rayan Saffron",
+    "trustedLeader": "A trusted leader in premium saffron with over a decade of expertise.",
+    "bestPlatform": "The best platform for selling genuine saffron in the Middle East and Europe",
+    "oneHundredPlus": "100+",
+    "successfulCooperation": "Successful cooperation"
+  }
+,
+  "signup": {
+    "error": "Error",
+    "success": "Success",
+    "somethingWentWrong": "Something went wrong!",
+    "accountCreatedSuccess": "Account created successfully!",
+    "networkError": "Network error!",
+    "rayanSaffronLogo": "Rayan Saffron Logo",
+    "signUp": "Sign Up",
+    "enterInfoToRegister": "Please enter the following information to register on the Rayan Saffron website.",
+    "username": "Username",
+    "enterYourUsername": "Enter your username",
+    "email": "Email",
+    "enterYourEmail": "Enter your email",
+    "password": "Password",
+    "enterYourPassword": "Enter your password",
+    "creatingAccount": "Creating Account...",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "logIn": "Log in",
+    "rayanSaffron": "Rayan Saffron",
+    "trustedLeader": "A trusted leader in premium saffron with over a decade of expertise.",
+    "bestPlatform": "The best platform for selling genuine saffron in the Middle East and Europe",
+    "oneHundredPlus": "100+",
+    "successfulCooperation": "Successful cooperation"
+  }
+
+  ,
+  "chatbot": {
+    "initialMessage": "Hello! I'm your assistant. How can I help you today?",
+    "openButton": "Open chat",
+    "title": "Chat Assistant",
+    "status": "Online",
+    "clearChat": "Clear chat history",
+    "clear": "Clear",
+    "closeButton": "Close chat",
+    "error": "Sorry, I encountered an error. Please try again.",
+    "connectionError": "Connection error. Please check your internet and try again.",
+    "placeholder": "Type your message here...",
+    "sendButton": "Send message",
+    "footer": "Powered by AI Assistant"
+  }
+
+
+}
