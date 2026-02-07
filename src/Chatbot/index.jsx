@@ -174,30 +174,30 @@ const Chatbot = ({ onClose }) => {
       </div>
 
       {/* Input */}
-      <div className="p-4 border-t border-gray-200">
-        <div className="flex gap-2">
-          <input
-            type="text"
-            value={input}
-            onChange={(e) => setInput(e.target.value)}
-            onKeyPress={handleKeyPress}
-            placeholder={t('chatbot.placeholder')}
-            className="flex-1 px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-            disabled={isLoading}
-            dir={detectLanguage(input) === 'english' ? 'ltr' : 'rtl'}
-          />
-          <button
-            onClick={sendMessage}
-            disabled={isLoading || !input.trim()}
-            className={`px-4 py-2 rounded-lg ${isLoading || !input.trim() ? 
-              'bg-gray-300 text-gray-500 cursor-not-allowed' : 
-              'bg-blue-500 hover:bg-blue-600 text-white'
-            }`}
-          >
-            <FaPaperPlane />
-          </button>
-        </div>
-      </div>
+    <div className="p-3 sm:p-4 border-t border-gray-200">
+  <div className="flex flex-col sm:flex-row gap-2 sm:gap-3">
+    <input
+      type="text"
+      value={input}
+      onChange={(e) => setInput(e.target.value)}
+      onKeyPress={handleKeyPress}
+      placeholder={t('chatbot.placeholder')}
+      className="flex-1 px-3 py-2 sm:py-2.5 text-sm sm:text-base border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+      disabled={isLoading}
+      dir={detectLanguage(input) === 'english' ? 'ltr' : 'rtl'}
+    />
+    <button
+      onClick={sendMessage}
+      disabled={isLoading || !input.trim()}
+      className={`px-4 py-2 sm:py-2.5 rounded-lg flex-shrink-0 ${isLoading || !input.trim() ?
+        'bg-gray-300 text-gray-500 cursor-not-allowed' :
+        'bg-blue-500 hover:bg-blue-600 text-white'
+      }`}
+    >
+      <FaPaperPlane className="w-4 h-4 sm:w-5 sm:h-5" />
+    </button>
+  </div>
+</div>
     </div>
   );
 };
