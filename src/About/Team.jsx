@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { FaArrowRight } from "react-icons/fa";
 import boss from "../assets/about/boss.jpg"
 import leader from "../assets/about/leader.jpg"
-import finance from "../assets/about/partner.jpg"
+import finance from "../assets/about/abdul.jpg"
 
 const Team = () => {
   const { t } = useTranslation("about"); // Using "team" namespace
