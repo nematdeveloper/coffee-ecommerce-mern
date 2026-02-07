@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
-import First from "../../assets/products/Rayan Saffron Packages/All Types Of Saffron/1.jpg"
-import Second from "../../assets/products/package/azin/2.jpg"
+import First from "../../assets/products/package/decor/1.jpg"
+import Second from "../../assets/products/package/azin/1.jpg"
 import Third from "../../assets/products/package/azin/3.jpg"
 import Forth from "../../assets/products/package/azin/4.jpg"
-import Fifth from ".../../assets/products/package/metal/5.jpg"
+import Fifth from "../../assets/products/package/metal/5.jpg"
 import Sexth from "../../assets/products/package/metal/7.jpg"
 import Seventh from "../../assets/about/11.webp"
 import Eighth from "../../assets/about/12.webp"

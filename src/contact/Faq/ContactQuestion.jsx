@@ -2,7 +2,7 @@ import React from 'react'
 import Avatar from '@mui/material/Avatar';
 import AvatarGroup from '@mui/material/AvatarGroup';
 import AvatarS from "../../assets/about/boss.jpg"
-import AvatarSS from "../../assets/about/partner.jpg"
+import AvatarSS from "../../assets/about/abdul.jpg"
 import { useTranslation } from 'react-i18next';
 
 const ContactQuestion = () => {

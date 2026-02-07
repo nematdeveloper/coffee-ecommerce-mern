@@ -6,7 +6,7 @@ import { GrCertificate } from "react-icons/gr";
 import { Link } from 'react-router-dom';
 import img from "../assets/about/10.webp"
 import imgs from "../assets/about/11.webp"
-import imgss from "../assets/products/Rayan Saffron Packages/Azin Pack/1.jpg"
+import imgss from "../assets/products/package/azin/1.jpg"
 const Hero = () => {
   const { t } = useTranslation("home");
   const [currentIndex, setCurrentIndex] = useState(0);
