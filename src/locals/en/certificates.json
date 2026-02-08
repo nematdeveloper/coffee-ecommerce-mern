@@ -5,12 +5,12 @@
   }
   ,
   "featuredCertificate": {
-    "featuredBadge": "Featured Jawaz",
+    "featuredBadge": "Featured Business Licence",
     "issued": "Issued",
-    "viewDetails": "View Jawaz Details",
-    "viewDetailsButton": "View jawaz details",
+    "viewDetails": "View Business Licence",
+    "viewDetailsButton": "View Details",
     "visitIssuer": "Visit Issuer",
-    "visitIssuerLink": "Visit jawaz issuer website"
+    "visitIssuerLink": "Visit Business Licence Issuer Website"
   
 }
 
@@ -56,16 +56,16 @@
 ,
   "certificates": {
     "iso22000": {
-      "title": "ISO 22000:2018 Food Safety Management",
-      "issuer": "International Standards Organization",
+      "title": "FSSC 22000 (V6)",
+      "issuer": "Indian Register Quality Systems",
       "date": "2024",
-      "description": "International food safety management certification ensuring highest quality standards."
+      "description": "FSSC 22000 (V6) is a GFSI-Recognized Food Safety System Certification"
     },
     "organic": {
-      "title": "Global Organic Certified",
-      "issuer": "Control Union Certifications",
+      "title": "FSPCA",
+      "issuer": "Association of Food and Drug Officials",
       "date": "2023",
-      "description": "Certified organic saffron production from farm to packaging."
+      "description": "Food Safety Preventive Controls Alliance"
     },
     "worldBest": {
       "title": "World's Best Saffron Award",
