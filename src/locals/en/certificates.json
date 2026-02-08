@@ -56,34 +56,34 @@
 ,
   "certificates": {
     "iso22000": {
-      "title": "FSSC 22000 (V6)",
-      "issuer": "Indian Register Quality Systems",
-      "date": "2024",
-      "description": "FSSC 22000 (V6) is a GFSI-Recognized Food Safety System Certification"
+      "title": "Business Licence",
+      "issuer": "Ministry of Industry and Commerce",
+      "date": "2023",
+      "description": "It is Certfied that this license with mentioned name, is registered and issued in accordance with ans subject to the LLC and other effective laws of Afghanistan"
     },
     "organic": {
+      "title": "FSSC 22000 V6",
+      "issuer": "IRQS - India Register Quality Systems",
+      "date": "2023",
+      "description": "A GSI-Recognised Food Safety System Certification"
+    },
+    "worldBest": {
       "title": "FSPCA",
       "issuer": "Association of Food and Drug Officials",
       "date": "2023",
       "description": "Food Safety Preventive Controls Alliance"
     },
-    "worldBest": {
-      "title": "World's Best Saffron Award",
-      "issuer": "World Spice Association",
-      "date": "2024",
-      "description": "Awarded for exceptional quality and aroma profile."
-    },
     "haccp": {
-      "title": "HACCP Certification",
-      "issuer": "Food Safety System Certification",
-      "date": "2023",
-      "description": "Hazard Analysis Critical Control Point food safety certification."
+      "title": "Trademark Registration Certificate",
+      "issuer": "Ministry of Industry and Commerce",
+      "date": "2025",
+      "description": "AFGHAN ZAFARAN CONSORTIUM"
     },
     "goldQuality": {
-      "title": "Gold Quality Award",
-      "issuer": "International Taste Institute",
-      "date": "2024",
-      "description": "Recognition for superior saffron quality standards."
+      "title": "Trademark Registration Certificate",
+      "issuer": "Ministry of Industry and Commerce",
+      "date": "2021",
+      "description": "Rayan Saffron"
     },
     "halal": {
       "title": "Halal Certified",
