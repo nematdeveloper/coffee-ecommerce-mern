@@ -12,32 +12,32 @@
     "title": "Contact Information",
     "phone": {
       "title": "Phone",
-      "details": "+1 (234) 567-8901",
-      "description": "Mon-Fri from 9am to 6pm"
+      "details": "+93784061919",
+      "description": "SAT-THUR from 8am to 6pm"
     },
     "email": {
       "title": "Email",
-      "details": "contact@example.com",
+      "details": "info@rayansaffron.af",
       "description": "We reply within 24 hours"
     },
     "office": {
       "title": "Office",
-      "details": "123 Innovation Drive",
-      "description": "San Francisco, CA 94107"
+      "details": "Plaque No 41th, Afghanistan Saffron International Market",
+      "description": "Walayat Street, Herat – Afghanistan."
     }
   },
   "businessHours": {
     "title": "Business Hours",
     "weekdays": {
-      "days": "Monday - Friday",
-      "hours": "9:00 AM - 6:00 PM"
+      "days": "Saturday - Thursday",
+      "hours": "8:00 AM - 5:00 PM"
     },
     "saturday": {
-      "days": "Saturday",
-      "hours": "10:00 AM - 4:00 PM"
+      "days": "Thursday",
+      "hours": "08:00 AM - 5:00 PM"
     },
     "sunday": {
-      "days": "Sunday",
+      "days": "Friday",
       "hours": "Closed"
     }
   },
@@ -96,31 +96,31 @@
 ,
   "about": {
     "title": "About Us",
-    "subtitle": "We're passionate about creating exceptional digital experiences.",
-    "description": "Our team combines creativity and technical excellence to deliver results that truly matter."
+    "subtitle": "We Are Rayan Herat Saffron",
+    "description": "We are a trusted producer, processor, and exporter of premium Afghan saffron, committed to quality, authenticity, and international standards. Through expert sourcing, modern processing, and responsible practices, we deliver exceptional saffron that represents the excellence of Herat to markets around the world."
   },
   "values": {
     "title": "Our Core Values",
     "innovation": {
-      "title": "Innovation",
-      "description": "Constantly pushing boundaries with creative solutions"
+      "title": "Excellence",
+      "description": "Delivering the finest saffron, every time"
     },
     "excellence": {
-      "title": "Excellence",
-      "description": "Committed to delivering outstanding quality in everything we do"
+      "title": "Integrity",
+      "description": "Honest, transparent, and trusted globally"
     },
     "collaboration": {
-      "title": "Collaboration",
-      "description": "Working together to achieve greater results for our clients"
+      "title": "Sustainability ",
+      "description": "Supporting farmers and responsible sourcing"
     },
     "integrity": {
-      "title": "Integrity",
-      "description": "Building trust through transparency and ethical practices"
+      "title": "Customer Delight ",
+      "description": "Exceeding expectations with every product"
     }
   },
   "mission": {
     "title": "Our Mission",
-    "description": "To empower businesses with innovative digital solutions that enhance engagement and drive sustainable growth."
+    "description": "To deliver exceptional saffron and professional services through continuous improvement and innovation."
   },
   "social": {
     "title": "Connect With Us",
