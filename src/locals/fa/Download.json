@@ -1,1 +1,46 @@
-{}
+{
+  "header": {
+    "title": "اسناد شرکت"
+  },
+  "buttons": {
+    "download": "دانلود",
+    "downloadAria": "دانلود {{fileName}}"
+  },
+  "alerts": {
+    "downloadNotConfigured": "لینک دانلود فایل \"{{fileName}}\" هنوز پیکربندی نشده است.",
+    "downloading": "در حال دانلود {{fileName}}..."
+  },
+  "console": {
+    "downloadStarted": "دانلود شروع شد: {{fileName}}"
+  },
+  "download": {
+    "defaultFileName": "دانلود"
+  },
+  "files": {
+    "file1": {
+      "name": "کاتالوگ",
+      "type": "PDF",
+      "size": "9.65 مگابایت"
+    },
+    "file2": {
+      "name": "بروشور",
+      "type": "PDF",
+      "size": "2.43 مگابایت"
+    },
+    "file3": {
+      "name": "پروفایل شرکت رایان زعفران",
+      "type": "PDF",
+      "size": "3.69 مگابایت"
+    },
+    "file4": {
+      "name": "آزمایشگاه کنترل کیفیت زعفران",
+      "type": "PDF",
+      "size": "1.97 مگابایت"
+    },
+    "file5": {
+      "name": "عملیات کاشت زعفران",
+      "type": "PDF",
+      "size": "1.94 مگابایت"
+    }
+  }
+}

@@ -2,11 +2,11 @@
     {
   
     "products":{
+       "besttitle":"Best Products",
         "title":"All Products",
         "Count":"Rayan Saffron",
         "searchPlaceholder":"Search Our Products",
         "view":"Veiw Details",
-        "bestTitle":"Best Products",
        "bestCount":"Taste the Life",
        "min":"Minimum",
        "stock":"In Stock",

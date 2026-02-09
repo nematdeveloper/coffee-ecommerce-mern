@@ -18,29 +18,29 @@
   },
   "files": {
     "file1": {
-      "name": "Company Profile 2024",
+      "name": "Catalog",
       "type": "PDF",
-      "size": "2.4 MB"
+      "size": "9.65 MB"
     },
     "file2": {
-      "name": "Annual Financial Report Q4",
+      "name": "Brochure",
       "type": "PDF",
-      "size": "5.1 MB"
+      "size": "2.43 MB"
     },
     "file3": {
-      "name": "Product Catalog & Pricing",
+      "name": "Rayan Saffron Company Profile",
       "type": "PDF",
-      "size": "3.2 MB"
+      "size": "3.69 MB"
     },
     "file4": {
-      "name": "Corporate Brochure Digital",
+      "name": "Saffron Quality Control Laboratory",
       "type": "PDF",
-      "size": "1.8 MB"
+      "size": "1.97 MB"
     },
     "file5": {
-      "name": "Client Case Study Success",
+      "name": "Saffron planting operation",
       "type": "PDF",
-      "size": "4.7 MB"
+      "size": "1.94 MB"
     }
   }
 }

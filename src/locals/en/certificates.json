@@ -5,12 +5,12 @@
   }
   ,
   "featuredCertificate": {
-    "featuredBadge": "Featured Jawaz",
+    "featuredBadge": "Featured Business Licence",
     "issued": "Issued",
-    "viewDetails": "View Jawaz Details",
-    "viewDetailsButton": "View jawaz details",
+    "viewDetails": "View Business Licence",
+    "viewDetailsButton": "View Details",
     "visitIssuer": "Visit Issuer",
-    "visitIssuerLink": "Visit jawaz issuer website"
+    "visitIssuerLink": "Visit Business Licence Issuer Website"
   
 }
 
@@ -56,34 +56,34 @@
 ,
   "certificates": {
     "iso22000": {
-      "title": "ISO 22000:2018 Food Safety Management",
-      "issuer": "International Standards Organization",
-      "date": "2024",
-      "description": "International food safety management certification ensuring highest quality standards."
+      "title": "Business Licence",
+      "issuer": "Ministry of Industry and Commerce",
+      "date": "2023",
+      "description": "It is Certfied that this license with mentioned name, is registered and issued in accordance with ans subject to the LLC and other effective laws of Afghanistan"
     },
     "organic": {
-      "title": "Global Organic Certified",
-      "issuer": "Control Union Certifications",
+      "title": "FSSC 22000 V6",
+      "issuer": "IRQS - India Register Quality Systems",
       "date": "2023",
-      "description": "Certified organic saffron production from farm to packaging."
+      "description": "A GSI-Recognised Food Safety System Certification"
     },
     "worldBest": {
-      "title": "World's Best Saffron Award",
-      "issuer": "World Spice Association",
-      "date": "2024",
-      "description": "Awarded for exceptional quality and aroma profile."
+      "title": "FSPCA",
+      "issuer": "Association of Food and Drug Officials",
+      "date": "2023",
+      "description": "Food Safety Preventive Controls Alliance"
     },
     "haccp": {
-      "title": "HACCP Certification",
-      "issuer": "Food Safety System Certification",
-      "date": "2023",
-      "description": "Hazard Analysis Critical Control Point food safety certification."
+      "title": "Trademark Registration Certificate",
+      "issuer": "Ministry of Industry and Commerce",
+      "date": "2025",
+      "description": "AFGHAN ZAFARAN CONSORTIUM"
     },
     "goldQuality": {
-      "title": "Gold Quality Award",
-      "issuer": "International Taste Institute",
-      "date": "2024",
-      "description": "Recognition for superior saffron quality standards."
+      "title": "Trademark Registration Certificate",
+      "issuer": "Ministry of Industry and Commerce",
+      "date": "2021",
+      "description": "Rayan Saffron"
     },
     "halal": {
       "title": "Halal Certified",

@@ -1,1 +1,98 @@
-{}
+{
+  "header": {
+    "title": "گواهینامه‌ها و جوایز",
+    "subtitle": "تعهد ما به کیفیت، تأیید شده توسط استانداردهای بین‌المللی"
+  },
+  "featuredCertificate": {
+    "featuredBadge": "گواهی کسب‌وکار برجسته",
+    "issued": "صادر شده",
+    "viewDetails": "مشاهده گواهی کسب‌وکار",
+    "viewDetailsButton": "مشاهده جزئیات",
+    "visitIssuer": "بازدید از صادرکننده",
+    "visitIssuerLink": "بازدید از وبسایت صادرکننده گواهی کسب‌وکار"
+  },
+  "filter": {
+    "title": "فیلتر گواهینامه‌ها",
+    "filterIcon": "آیکون فیلتر",
+    "filters": {
+      "all": {
+        "label": "همه گواهینامه‌ها",
+        "ariaLabel": "نمایش همه گواهینامه‌ها"
+      },
+      "award": {
+        "label": "جوایز",
+        "ariaLabel": "فیلتر بر اساس جوایز"
+      },
+      "foodSafety": {
+        "label": "ایمنی غذایی",
+        "ariaLabel": "فیلتر بر اساس گواهینامه‌های ایمنی غذایی"
+      }
+    }
+  },
+  "modal": {
+    "closeButton": "بستن مودال",
+    "close": "بستن",
+    "closeModalButton": "بستن مودال گواهینامه",
+    "visitWebsite": "بازدید از وبسایت صادرکننده",
+    "visitWebsiteButton": "بازدید از وبسایت صادرکننده",
+    "sections": {
+      "issuer": "صادرکننده",
+      "description": "توضیحات",
+      "issueDate": "تاریخ صدور",
+      "certificateType": "نوع گواهینامه"
+    },
+    "typeLabels": {
+      "award": "جایزه",
+      "foodSafety": "ایمنی غذایی",
+      "certificate": "گواهینامه"
+    }
+  },
+  "certificates": {
+    "iso22000": {
+      "title": "گواهی کسب‌وکار",
+      "issuer": "وزارت صنعت و تجارت",
+      "date": "2023",
+      "description": "تأیید می‌شود که این گواهی با نام ذکر شده، مطابق با قوانین شرکت با مسئولیت محدود و سایر قوانین مؤثر افغانستان ثبت و صادر شده است."
+    },
+    "organic": {
+      "title": "FSSC 22000 V6",
+      "issuer": "IRQS - سیستم‌های کیفیت ثبت هند",
+      "date": "2023",
+      "description": "یک گواهینامه سیستم ایمنی غذایی به رسمیت شناخته شده توسط GSI"
+    },
+    "worldBest": {
+      "title": "FSPCA",
+      "issuer": "انجمن مقامات غذا و دارو",
+      "date": "2023",
+      "description": "ائتلاف کنترل‌های پیشگیرانه ایمنی غذایی"
+    },
+    "haccp": {
+      "title": "گواهی ثبت علامت تجاری",
+      "issuer": "وزارت صنعت و تجارت",
+      "date": "2025",
+      "description": "کنسرسیوم زعفران افغانستان"
+    },
+    "goldQuality": {
+      "title": "گواهی ثبت علامت تجاری",
+      "issuer": "وزارت صنعت و تجارت",
+      "date": "2021",
+      "description": "رایان زعفران"
+    },
+    "halal": {
+      "title": "گواهی حلال",
+      "issuer": "شورای اسلامی غذا و تغذیه",
+      "date": "2023",
+      "description": "گواهی حلال برای تولید و فرآوری."
+    }
+  },
+  "card": {
+    "viewDetails": "مشاهده جزئیات",
+    "viewDetailsButton": "مشاهده جزئیات برای {{title}}",
+    "typeLabels": {
+      "award": "جایزه",
+      "foodSafety": "ایمنی غذایی",
+      "organic": "ارگانیک",
+      "quality": "کیفیت"
+    }
+  }
+}

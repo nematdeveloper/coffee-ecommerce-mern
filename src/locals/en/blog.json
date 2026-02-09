@@ -6,7 +6,8 @@
   "search": {
     "placeholder": "Search",
     "searchIcon": "Search icon",
-    "inputLabel": "Search blog posts"
+    "inputLabel": "Search blog posts",
+    "searchb":"Search Blog"
   }
   ,
   "errors": {

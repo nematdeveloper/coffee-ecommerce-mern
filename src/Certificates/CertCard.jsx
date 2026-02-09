@@ -12,53 +12,37 @@ const CalendarIcon = ({ className }) => (
 const CertificateCard = ({ certificate, onViewClick }) => {
   const { t } = useTranslation("certificates");
 
-  const typeConfig = {
-    "award": { 
-      icon: <Award className="w-5 h-5" />, 
-      color: "bg-yellow-100 text-yellow-800",
-      label: t('card.typeLabels.award')
-    },
-    "food-safety": { 
-      icon: <Shield className="w-5 h-5" />, 
-      color: "bg-blue-100 text-blue-800",
-      label: t('card.typeLabels.foodSafety')
-    },
-    "organic": { 
-      icon: <Award className="w-5 h-5" />, 
-      color: "bg-green-100 text-green-800",
-      label: t('card.typeLabels.organic')
-    },
-    "quality": { 
-      icon: <Award className="w-5 h-5" />, 
-      color: "bg-purple-100 text-purple-800",
-      label: t('card.typeLabels.quality')
-    }
-  };
-  
-  const config = typeConfig[certificate.type] || typeConfig["award"];
-
   return (
-    <div className="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow overflow-hidden border border-gray-100 flex flex-col">
-      {/* Image / Icon */}
-      <div className="relative w-full aspect-[4/3] bg-gray-100 flex items-center justify-center">
-        {config.icon}
-        <span className={`absolute top-3 right-3 px-3 py-1 rounded-full text-sm font-medium flex items-center gap-1 ${config.color}`}>
-          {config.icon}
-          <span className="capitalize">{config.label}</span>
+    <div className="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow overflow-hidden border border-gray-100 flex flex-col h-full">
+      {/* Certificate Image Container */}
+      <div className="relative w-full h-64 bg-gray-100 flex items-center justify-center overflow-hidden">
+        <img 
+          src={certificate.image} 
+          alt={certificate.title}
+          className="w-auto h-full object-contain p-4" // Changed to object-contain
+          loading="lazy"
+        />
+        
+        {/* Certificate Type Badge */}
+        <span className="absolute top-3 right-3 px-3 py-1 rounded-full text-sm font-medium bg-primary/90 text-white backdrop-blur-sm">
+          {certificate.type === "award" && t('card.typeLabels.award')}
+          {certificate.type === "food-safety" && t('card.typeLabels.foodSafety')}
+          {certificate.type === "organic" && t('card.typeLabels.organic')}
+          {certificate.type === "quality" && t('card.typeLabels.quality')}
         </span>
       </div>
 
       {/* Content */}
       <div className="p-5 flex flex-col flex-grow">
-        <h3 className="text-lg font-bold text-gray-900 mb-2">{certificate.title}</h3>
+        <h3 className="text-lg font-bold text-gray-900 mb-2 line-clamp-2">{certificate.title}</h3>
 
         <div className="space-y-2 mb-4 text-gray-600 text-sm">
           <div className="flex items-center gap-2">
-            <Award className="w-4 h-4" />
-            <span>{certificate.issuer}</span>
+            <Award className="w-4 h-4 text-gray-400 flex-shrink-0" />
+            <span className="truncate">{certificate.issuer}</span>
           </div>
           <div className="flex items-center gap-2">
-            <CalendarIcon className="w-4 h-4" />
+            <CalendarIcon className="w-4 h-4 text-gray-400 flex-shrink-0" />
             <span>{certificate.date}</span>
           </div>
         </div>

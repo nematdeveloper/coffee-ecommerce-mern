@@ -1,1 +1,98 @@
-{}
+{
+  "header": {
+    "title": "الشهادات والجوائز",
+    "subtitle": "التزامنا بالجودة، مصدق عليه بمعايير دولية"
+  },
+  "featuredCertificate": {
+    "featuredBadge": "رخصة العمل المميزة",
+    "issued": "صادرة",
+    "viewDetails": "عرض رخصة العمل",
+    "viewDetailsButton": "عرض التفاصيل",
+    "visitIssuer": "زيارة المصدر",
+    "visitIssuerLink": "زيارة موقع المصدر لرخصة العمل"
+  },
+  "filter": {
+    "title": "تصفية الشهادات",
+    "filterIcon": "أيقونة التصفية",
+    "filters": {
+      "all": {
+        "label": "جميع الشهادات",
+        "ariaLabel": "عرض جميع الشهادات"
+      },
+      "award": {
+        "label": "الجوائز",
+        "ariaLabel": "التصفية حسب الجوائز"
+      },
+      "foodSafety": {
+        "label": "سلامة الغذاء",
+        "ariaLabel": "التصفية حسب شهادات سلامة الغذاء"
+      }
+    }
+  },
+  "modal": {
+    "closeButton": "إغلاق النافذة",
+    "close": "إغلاق",
+    "closeModalButton": "إغلاق نافذة الشهادة",
+    "visitWebsite": "زيارة موقع المصدر",
+    "visitWebsiteButton": "زيارة موقع المصدر",
+    "sections": {
+      "issuer": "المصدر",
+      "description": "الوصف",
+      "issueDate": "تاريخ الإصدار",
+      "certificateType": "نوع الشهادة"
+    },
+    "typeLabels": {
+      "award": "جائزة",
+      "foodSafety": "سلامة الغذاء",
+      "certificate": "شهادة"
+    }
+  },
+  "certificates": {
+    "iso22000": {
+      "title": "رخصة العمل",
+      "issuer": "وزارة الصناعة والتجارة",
+      "date": "2023",
+      "description": "يُشهد بأن هذه الرخصة بالاسم المذكور، مسجلة ومصدرة وفقًا وقانون شركة ذات مسؤولية محدودة والقوانين النافذة الأخرى في أفغانستان"
+    },
+    "organic": {
+      "title": "FSSC 22000 V6",
+      "issuer": "IRQS - أنظمة الجودة المسجلة في الهند",
+      "date": "2023",
+      "description": "شهادة نظام سلامة الغذاء المعترف بها من قبل GSI"
+    },
+    "worldBest": {
+      "title": "FSPCA",
+      "issuer": "جمعية مسؤولي الغذاء والدواء",
+      "date": "2023",
+      "description": "تحالف الضوابط الوقائية لسلامة الغذاء"
+    },
+    "haccp": {
+      "title": "شهادة تسجيل العلامة التجارية",
+      "issuer": "وزارة الصناعة والتجارة",
+      "date": "2025",
+      "description": "اتحاد الزعفران الأفغاني"
+    },
+    "goldQuality": {
+      "title": "شهادة تسجيل العلامة التجارية",
+      "issuer": "وزارة الصناعة والتجارة",
+      "date": "2021",
+      "description": "رايان زعفران"
+    },
+    "halal": {
+      "title": "شهادة حلال",
+      "issuer": "المجلس الإسلامي للغذاء والتغذية",
+      "date": "2023",
+      "description": "شهادة حلال للإنتاج والمعالجة."
+    }
+  },
+  "card": {
+    "viewDetails": "عرض التفاصيل",
+    "viewDetailsButton": "عرض التفاصيل لـ {{title}}",
+    "typeLabels": {
+      "award": "جائزة",
+      "foodSafety": "سلامة الغذاء",
+      "organic": "عضوي",
+      "quality": "جودة"
+    }
+  }
+}

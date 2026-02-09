@@ -8,7 +8,7 @@ const SearchBlog = ({query,setQuery}) => {
   return (
     <div className="flex justify-center items-center gap-[30px] flex-col mt-6">
       <div className="flex justify-center items-center text-2xl sm:text-3xl md:text-4xl mb-4 bg-gray-100 px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 py-3 sm:py-4 rounded-xl md:rounded-2xl">
-  search Blogs
+{t("search.searchb")}
 </div>
       <div className="relative lg:w-[732px]">
        

@@ -19,56 +19,70 @@
   
 }
 ,
+  
   "questions": {
     "q1": {
-      "question": "What is your return policy?",
-      "answer": "We offer a 30-day return policy for all unused products in their original packaging."
+      "question": "What are your company's official licenses and registration numbers?",
+      "answer": "Our company is fully licensed and compliant. Here are our official credentials: Business License #: 60857, Business Registration #: 135358, Brand Registration #: 23621, U.S. FDA Registration #: 13286924580, EU REX #: AFREXEXPD123456873KBL"
     },
     "q2": {
-      "question": "How long does shipping take?",
-      "answer": "Shipping typically takes 3-5 business days for domestic orders and 7-14 days for international orders."
+      "question": "How can I get pricing for your saffron products?",
+      "answer": "Please visit our Store Page for current FOB prices. For shipping costs, check our Export Page. For direct pricing inquiries, contact our Sales Department at +93784061919."
     },
     "q3": {
-      "question": "Do you offer international shipping?",
-      "answer": "Yes, we ship to over 50 countries worldwide. Shipping costs and times vary by destination."
+      "question": "How do I request a proforma invoice?",
+      "answer": "Select your desired products with specifications and send details via email or WhatsApp. Our team responds within 24 hours. Phone support is available from 9 AM to 9 PM."
     },
     "q4": {
-      "question": "What payment methods do you accept?",
-      "answer": "We accept all major credit cards, PayPal, Apple Pay, and Google Pay."
+      "question": "What is the shelf life of your saffron?",
+      "answer": "Our saffron has a 3-year validity period from the production date."
     },
     "q5": {
-      "question": "How can I track my order?",
-      "answer": "Once your order ships, you'll receive a tracking number via email. You can also track your order from your account dashboard."
+      "question": "How should I store saffron?",
+      "answer": "Store in a cool, dry place away from direct light at temperatures around 30°C (86°F)."
     },
     "q6": {
-      "question": "Do you have a physical store?",
-      "answer": "Yes, we have a flagship store in San Francisco. Check our store locator for address and hours."
+      "question": "How long are your prices valid?",
+      "answer": "Due to market fluctuations, all price lists and pre-invoices are valid for one day. For large orders, we can extend price validity to three days."
     },
     "q7": {
-      "question": "Can I change or cancel my order?",
-      "answer": "You can change or cancel your order within 1 hour of placing it. Contact customer service for assistance."
+      "question": "What are your bulk packaging options?",
+      "answer": "For bulk orders: 500g vacuum-sealed packs in paper boxes, with 20 boxes per standard five-layer carton."
     },
     "q8": {
-      "question": "What is your warranty policy?",
-      "answer": "All products come with a 1-year manufacturer's warranty. Extended warranties are available for purchase."
+      "question": "What are your minimum and maximum order quantities?",
+      "answer": "Retail: Minimum 250g in metallic cans, shipped to your address. Wholesale: Minimum 10kg, maximum 500kg per order, shipped to your country's airport."
     },
     "q9": {
-      "question": "How do I contact customer support?",
-      "answer": "You can contact us via email at support@example.com, phone at +1-234-567-8901, or live chat on our website."
+      "question": "Do you provide saffron quality analysis?",
+      "answer": "Yes. Our advanced laboratory is certified by Afghanistan's National Standard Organization. All products are tested, and analysis certificates are provided upon request."
     },
     "q10": {
-      "question": "Do you offer bulk discounts?",
-      "answer": "Yes, we offer volume discounts for orders over 50 units. Contact our sales team for a custom quote."
+      "question": "Do you offer private labeling?",
+      "answer": "Yes. We provide custom packaging and private labeling for orders over 10kg of saffron."
     },
     "q11": {
-      "question": "Are your products eco-friendly?",
-      "answer": "Yes, we use sustainable materials and eco-friendly packaging for all our products."
+      "question": "What export documents do you provide?",
+      "answer": "We provide all required Afghanistan export documents: Packing List, Lab Analysis Report, Phytosanitary Certificate, Origin Form A (Safta) Certificate, Commercial Invoice, Customs Declaration, and Air Waybill or Transport Bill."
     },
     "q12": {
-      "question": "How do I create an account?",
-      "answer": "Click the 'Sign Up' button in the top right corner and follow the simple registration process."
+      "question": "What are your payment terms?",
+      "answer": "50% advance payment, 50% balance after receiving all original export documents. Airway bill is sent after final payment. Payments are processed through our partner company in Dubai, UAE due to banking limitations in Afghanistan."
+    },
+    "q13": {
+      "question": "What is your delivery time?",
+      "answer": "Goods are shipped within 10-15 days after the initial deposit, delivered CFR/C&F to the approved destination port. Note: Import duties are not included."
+    },
+    "q14": {
+      "question": "How do you ship products?",
+      "answer": "We ship via express post, air freight, sea freight, or truck transport depending on destination and order size."
+    },
+    "q15": {
+      "question": "How can I become an exclusive agent?",
+      "answer": "Contact us via email at info@rayansaffron.af or phone at +93784061919 with your request. We welcome exclusive partnership opportunities."
     }
-  },
+  }
+,
   "search": {
     "noResultsTitle": "No questions found",
     "noResultsFor": "No results for",

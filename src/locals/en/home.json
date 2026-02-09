@@ -20,7 +20,8 @@
       "handPicked": {
         "title": "Harvesting Saffron Flowers",
         "information": "Saffron flowers are carefully handpicked at peak bloom to protect their delicate structure and preserve their natural quality."
-      },
+        ,"name":"Facility center" 
+            },
       "organicCertified": {
         "title": "Stigma Separation",
         "information": "Skilled workers meticulously separate the saffron stigmas from each flower, maintaining hygiene and precision at every step."

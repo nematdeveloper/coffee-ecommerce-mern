@@ -1,1 +1,75 @@
-{}
+{
+  "products": {
+    "besttitle": "أفضل المنتجات",
+    "title": "جميع المنتجات",
+    "Count": "رايان زعفران",
+    "searchPlaceholder": "ابحث في منتجاتنا",
+    "view": "عرض التفاصيل",
+    "bestTitle": "أفضل المنتجات",
+    "bestCount": "تذوق الحياة",
+    "min": "الحد الأدنى",
+    "stock": "متوفر",
+    "addcart": "أضف إلى السلة",
+    "addedToCart": "تمت إضافة المنتج إلى السلة!",
+    "emptyCart": "سلة التسوق الخاصة بك فارغة",
+    "shoppingCart": "سلة التسوق",
+    "clearAll": "مسح الكل",
+    "productDetails": "تفاصيل المنتج",
+    "action": "الإجراء",
+    "orderSummary": "ملخص الطلب",
+    "itemsInCart": "العناصر في السلة",
+    "quantityInfo": "يرجى ملاحظة أن الكميات والتوفر يتم تحديثها كل 24 ساعة. للحصول على معلومات المخزون في الوقت الحقيقي، اتصل بفريق الدعم لدينا.",
+    "proceedToCheckout": "المتابعة إلى الدفع",
+    "continueShopping": "مواصلة التسوق",
+    "orderHasBeenSubmitted": "تم إرسال الطلب",
+    "failedToSubmitOrder": "فشل إرسال الطلب: يرجى التأكد من ملء جميع الحقول.",
+    "orderErrorOccurred": "حدث خطأ أثناء إرسال طلبك.",
+    "step1": "الخطوة 1",
+    "step2": "الخطوة 2",
+    "userInfo": "معلومات المستخدم",
+    "invoice": "الفاتورة",
+    "fullName": "الاسم الكامل *",
+    "quantity": "الكمية *",
+    "gram": "غرام",
+    "kilogram": "كيلوغرام",
+    "shippingAddress": "عنوان الشحن *",
+    "phoneNumber": "رقم الهاتف *",
+    "shippingType": "نوع الشحن *",
+    "selectShippingMethod": "اختر نوع الشراء المفضل لديك:",
+    "inPockets": "زعفران بالجملة",
+    "notInPockets": "زعفران معبأ",
+    "itemsInCartSummary": "{{count}} عنصر في السلة",
+    "itemsInCartSummary_plural": "{{count}} عناصر في السلة",
+    "placeOrder": "تقديم الطلب",
+    "requiredFields": "* الحقول المطلوبة",
+    "helloOrderPlaced": "مرحبًا! لقد قمت بتقديم طلب.",
+    "address": "العنوان",
+    "shippingMethod": "طريقة الشحن",
+    "products": "المنتجات",
+    "paymentSuccessful": "الدفع ناجح",
+    "thankYouMessage": "شكرًا لك، {{username}}. يرجى إرسال الفاتورة عبر واتساب.",
+    "orderDetails": "تفاصيل الطلب",
+    "sendInvoiceWhatsApp": "إرسال الفاتورة عبر واتساب",
+    "backToHome": "العودة إلى الصفحة الرئيسية"
+  },
+  "header": {
+    "all": {
+      "title1": "زعفران في أبهى صوره",
+      "subtitle1": "خيوط مختارة بعناية ومتحقق من جودتها",
+      "title2": "أناقة في كل عبوة",
+      "subtitle2": "التقليدي يلتقي بالحديث",
+      "title3": "فخامة مختومة للكمال",
+      "subtitle3": "منتج بشكل أخلاقي"
+    },
+    "saffron": {
+      "title1": "خيوط زعفران نقية",
+      "subtitle1": "أعلى درجة متاحة",
+      "title2": "طازج مباشرة من المزرعة",
+      "subtitle2": "محصود بعناية"
+    },
+    "spices": {
+      "title1": "توابل عطرية",
+      "subtitle1": "نكهات وروائح غنية"
+    }
+  }
+}

@@ -1,1 +1,32 @@
-{}
+{
+  "header": {
+    "title": "بلاگ"
+  },
+  "search": {
+    "placeholder": "جستجو",
+    "searchIcon": "آیکون جستجو",
+    "inputLabel": "جستجوی پست‌های بلاگ",
+    "searchb":"جستجوی وبلاگ"
+  },
+  "errors": {
+    "fetchFailed": "دریافت جزئیات بلاگ ناموفق بود",
+    "blogNotFound": "پست بلاگ پیدا نشد"
+  },
+  "buttons": {
+    "retry": "تلاش مجدد",
+    "backToBlogs": "بازگشت به بلاگ‌ها",
+    "backToBlogsAria": "بازگشت به تمام پست‌های بلاگ",
+    "previousImage": "تصویر قبلی",
+    "nextImage": "تصویر بعدی",
+    "goToImage": "برو به تصویر شماره {{number}}",
+    "backToTop": "بازگشت به بالا"
+  },
+  "content": {
+    "minRead": "دقیقه مطالعه",
+    "tags": "برچسب‌ها"
+  },
+  "images": {
+    "altText": "{{title}} - تصویر {{index}}",
+    "counter": "تصویر {{current}} از {{total}}"
+  }
+}
