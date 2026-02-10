@@ -2,13 +2,14 @@
 import React from "react";
 
 export default function ContactMap() {
-  const officeAddress =
-    "Office No. 8, Saffron Plaza Market, Ameriat Square, 3001, Afghanistan";
-
+  // Include the shop name for better identification
+  const shopAddress = "Rayan Saffron Shop, Office No. 8, Saffron Plaza Market, Ameriat Square, Kabul 3001, Afghanistan";
+  
   const mapSrc = `https://www.google.com/maps?q=${encodeURIComponent(
-    officeAddress
-  )}&output=embed`;
+    shopAddress
+  )}&z=17&output=embed`;
 
+  
   return (
     <div className="flex justify-center rounded-[17px] items-center" style={{ width: "100%", height: "600px" }}>
       <iframe

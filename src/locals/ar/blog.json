@@ -1,6 +1,7 @@
 {
   "header": {
-    "title": "المدونة"
+    "title": "المدونة",
+    "blogtitle": "المدونات"
   },
   "search": {
     "placeholder": "بحث",

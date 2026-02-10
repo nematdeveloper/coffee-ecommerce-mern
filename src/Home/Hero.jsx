@@ -7,6 +7,7 @@ import { Link } from 'react-router-dom';
 import img from "../assets/about/10.webp"
 import imgs from "../assets/about/11.webp"
 import imgss from "../assets/products/package/azin/1.jpg"
+import slide from "../assets/products/slide3.jpg"
 const Hero = () => {
   const { t } = useTranslation("home");
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -27,7 +28,12 @@ const Hero = () => {
       title: t('hero.title3', "Certified Excellence"),
       description: t('hero.description3', "Internationally certified for quality and purity"),
       image: imgss
-    }
+    },
+      {
+      title: t('hero.title4'),
+      description: t('hero.description4'),
+      image: slide
+    },
   ];
 
   // Auto rotate slides

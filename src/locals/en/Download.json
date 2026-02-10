@@ -1,6 +1,7 @@
 {
   "header": {
     "title": "Company Documents"
+   , "downloadheader":"Files"
   },
   "buttons": {
     "download": "Download",

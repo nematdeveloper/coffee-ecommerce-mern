@@ -1,6 +1,9 @@
 {
   "header": {
     "title": "اسناد شرکت"
+    ,
+"downloadheader": "فایل‌ها"
+
   },
   "buttons": {
     "download": "دانلود",

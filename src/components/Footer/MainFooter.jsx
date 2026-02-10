@@ -80,14 +80,12 @@ const MainFooter = () => {
           <h3 className="text-lg md:text-xl font-bold mb-4 md:mb-6 text-white">{t("footer.solutions")}</h3>
           <ul className="space-y-3 md:space-y-4">
             <li className="footer-list-item text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer text-sm md:text-base">
-              <a href="/data">{t("footer.team")}</a>
+              <a href="/download-data">{t("footer.team")}</a>
             </li>
             <li className="footer-list-item text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer text-sm md:text-base">
               <a href="/faq">{t("footer.faq")}</a>
             </li>
-            <li className="footer-list-item text-gray-300 hover:text-white transition-colors duration-200 cursor-pointer text-sm md:text-base">
-              {t("footer.bestProducts")}
-            </li>
+          
           </ul>
         </div>
 

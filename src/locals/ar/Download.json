@@ -1,6 +1,7 @@
 {
   "header": {
-    "title": "وثائق الشركة"
+    "title": "وثائق الشركة",
+    "downloadheader": "الملفات"
   },
   "buttons": {
     "download": "تحميل",

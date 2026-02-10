@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { FaEnvelope, FaLock } from "react-icons/fa";
-import Logo from "../assets/features/Logo.png";
+import Logo from "../assets/features/mobile.png";
 import swal from "sweetalert";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
@@ -74,7 +74,7 @@ const Login = () => {
               <img
                 src={Logo}
                 alt={t("login.rayanSaffronLogo")}
-                className="h-10 sm:h-12 w-auto mx-auto sm:mx-0"
+                className=" h-30  w-30  w-auto  sm:mx-0"
               />
               <div className="text-center sm:text-left">
                 <h1 className="text-2xl sm:text-3xl md:text-[33px] font-semibold">{t("login.signUp")}</h1>

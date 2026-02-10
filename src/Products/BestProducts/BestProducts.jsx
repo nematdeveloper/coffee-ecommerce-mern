@@ -25,7 +25,7 @@ const useInView = () => {
 /* ---------------- COMPONENT ---------------- */
 
 const BestProducts = () => {
-  const { t, i18n } = useTranslation();
+  const { t, i18n } = useTranslation("products");
   const navigate = useNavigate();
   const [sectionRef, visible] = useInView();
 
@@ -94,7 +94,7 @@ const BestProducts = () => {
               transition-all duration-300 hover:bg-primary-dark hover:scale-[1.02] active:scale-[0.98]"
               onClick={() => navigate(`/product/${product._id}`)}
             >
-              {t("view")}
+              {t("products.view")}
             </button>
           </div>
         </div>

@@ -28,7 +28,7 @@ const Social = () => {
           </button>
 
           <button
-            onClick={() => window.open('https://m.me/yourpage', '_blank')}
+            onClick={() => window.open('https://m.me/rayansaffron.af', '_blank')}
             className="w-12 h-12 rounded-full bg-blue-500 text-white shadow-lg hover:bg-blue-600 transition-colors flex items-center justify-center"
             title="Messenger"
           >

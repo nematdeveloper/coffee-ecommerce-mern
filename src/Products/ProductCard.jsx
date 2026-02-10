@@ -66,6 +66,7 @@ const ProductCard = ({ query }) => {
   );
 
   return (
+  
     <div className="flex flex-wrap justify-center gap-[63px] mt-[150px] px-[32px]">
       {filteredProducts.map((product) => (
         <div key={product._id} className="card gap-10 flex flex-col">
@@ -80,8 +81,8 @@ const ProductCard = ({ query }) => {
 
           {/* Product info */}
           <div className="flex flex-col gap-2">
-            <p className="font-semibold">Name: {product.productname}</p>
-            <p className="text-gray-600">Type: {product.type}</p>
+            <p className="font-semibold">{t("products.names")}{product.productname}</p>
+            <p className="text-gray-600"> {t("products.types")}{product.type}</p>
           </div>
 
           {/* View button */}
