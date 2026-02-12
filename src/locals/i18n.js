@@ -40,24 +40,21 @@ export const languages = [
     code: 'en',
     name: 'English',
     nativeName: 'English',
-    flag: '🇺🇸',
     direction: 'ltr',
     fontFamily: "'Poppins', sans-serif", // 👈 ADD THIS LINE
     isDefault: true
   },
   {
     code: 'fa',
-    name: 'Farsi',
+    name: 'فارسی',
     nativeName: 'فارسی',
-    flag: '🇮🇷',
     direction: 'rtl',
     fontFamily: "'Vazirmatn', sans-serif" // 👈 ADD THIS LINE
   },
   {
     code: 'ar',
-    name: 'Arabic',
+    name: 'العربية',
     nativeName: 'العربية',
-    flag: '🇸🇦',
     direction: 'rtl',
     fontFamily: "'Vazirmatn', sans-serif" // 👈 ADD THIS LINE
   }

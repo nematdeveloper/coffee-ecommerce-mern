@@ -3,9 +3,9 @@ import { useTranslation } from "react-i18next";
 import {
   FaInstagram,
   FaFacebook,
-  FaTwitter,
   FaLinkedin,
   FaHeart,
+  FaYoutube,
 } from "react-icons/fa";
 
 /* ------------------ SCROLL HOOK ------------------ */
@@ -276,12 +276,12 @@ const FormAbout = () => {
 
             {/* Twitter */}
             <a
-              href="https://twitter.com/RayanSaffron"
+              href="https://www.youtube.com/@rayansaffron"
               className="group w-32 p-6 bg-white rounded-2xl shadow-md transition-all duration-300 hover:-translate-y-3 hover:shadow-xl hover:rotate-1 hover:text-[#1DA1F2]"
               aria-label={t("social.twitter.ariaLabel")}
             >
               <div className="text-3xl mb-3 text-gray-700 group-hover:scale-110 transition-transform">
-                <FaTwitter />
+                <FaYoutube />
               </div>
               <span className="text-gray-600 font-medium">
                 {t("social.twitter.name")}

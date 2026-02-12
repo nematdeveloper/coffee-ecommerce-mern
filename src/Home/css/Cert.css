@@ -4,6 +4,8 @@
   height: 280px; /* Reduced for mobile */
   margin: auto;
   perspective: 800px; /* Reduced for mobile */
+  position: relative;
+  overflow: visible;
 }
 
 .carousel {
@@ -24,18 +26,33 @@
     translate(-50%, -50%)
     rotateY(calc(360deg / 4 * var(--i)))
     translateZ(120px); /* Much smaller for mobile */
+  transition: transform 0.5s ease;
+  width: var(--img-width); /* Use CSS variable */
+  height: auto; /* Let height adjust automatically */
 }
 
+/* FIXED: Maintain aspect ratio */
 .carousel-item img {
-  width: 100% !important; /* Much smaller for mobile */
-  height: 160px; /* Much smaller for mobile */
- border-radius: 0 !important;
-  object-fit: cover;
+  width: 100% !important; /* Take full width of parent */
+  height: auto !important; /* Auto height to maintain aspect ratio */
+  aspect-ratio: 16/9; /* Standard certificate aspect ratio */
+  object-fit: contain; /* Show entire image without cropping */
+  object-position: center;
+  border-radius: 8px;
   box-shadow: 0 8px 16px rgba(0,0,0,.45);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  background: #fff; /* White background for certificates */
+  padding: 2px; /* Small padding */
 }
 
 .carousel:hover {
   animation-play-state: paused;
+}
+
+.carousel-item:hover img {
+  transform: scale(1.1);
+  box-shadow: 0 12px 24px rgba(0,0,0,.6);
 }
 
 .carousel-item img:active {
@@ -54,6 +71,46 @@
   }
 }
 
+/* Very small phones (less than 375px wide) */
+@media (max-width: 374px) {
+  .scene {
+    height: 320px; /* Increased to prevent clipping */
+    perspective: 700px;
+  }
+  
+  .carousel {
+    transform: rotateX(-3deg); /* Less tilt to show more image */
+  }
+  
+  .carousel-item {
+    --img-width: 150px; /* Set width via CSS variable */
+    transform:
+      translate(-50%, -50%)
+      rotateY(calc(360deg / 4 * var(--i)))
+      translateZ(90px);
+  }
+  
+  .carousel-item img {
+    aspect-ratio: 3/2; /* Slightly different ratio for small screens */
+  }
+}
+
+/* Mobile (375px to 599px) */
+@media (min-width: 375px) and (max-width: 599px) {
+  .scene {
+    height: 300px;
+    perspective: 800px;
+  }
+  
+  .carousel-item {
+    --img-width: 180px;
+    transform:
+      translate(-50%, -50%)
+      rotateY(calc(360deg / 4 * var(--i)))
+      translateZ(100px);
+  }
+}
+
 /* Small tablets (600px and up) */
 @media (min-width: 600px) {
   .scene {
@@ -66,23 +123,22 @@
   }
   
   .carousel-item {
+    --img-width: 220px;
     transform:
       translate(-50%, -50%)
       rotateY(calc(360deg / 4 * var(--i)))
-      translateZ(180px);
+      translateZ(140px);
   }
   
   .carousel-item img {
-    width: 250px;
-    height: 160px;
-    border-radius: 10px;
+    aspect-ratio: 4/3;
   }
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   .scene {
-    height: 450px;
+    height: 400px;
     perspective: 1200px;
   }
   
@@ -91,15 +147,15 @@
   }
   
   .carousel-item {
+    --img-width: 280px;
     transform:
       translate(-50%, -50%)
       rotateY(calc(360deg / 4 * var(--i)))
-      translateZ(250px);
+      translateZ(180px);
   }
   
   .carousel-item img {
-    width: 350px;
-    height: 220px;
+    aspect-ratio: 3/2;
     border-radius: 12px;
     box-shadow: 0 12px 24px rgba(0,0,0,.45);
   }
@@ -108,7 +164,7 @@
 /* Large devices (desktops, 1024px and up) */
 @media (min-width: 1024px) {
   .scene {
-    height: 550px;
+    height: 500px;
     perspective: 1400px;
   }
   
@@ -117,15 +173,15 @@
   }
   
   .carousel-item {
+    --img-width: 350px;
     transform:
       translate(-50%, -50%)
       rotateY(calc(360deg / 4 * var(--i)))
-      translateZ(320px);
+      translateZ(240px);
   }
   
   .carousel-item img {
-    width: 450px;
-    height: 280px;
+    aspect-ratio: 16/9;
     border-radius: 14px;
     box-shadow: 0 18px 36px rgba(0,0,0,.45);
   }
@@ -134,20 +190,20 @@
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   .scene {
-    height: 600px;
+    height: 550px;
     perspective: 1600px;
   }
   
   .carousel-item {
+    --img-width: 420px;
     transform:
       translate(-50%, -50%)
       rotateY(calc(360deg / 4 * var(--i)))
-      translateZ(420px);
+      translateZ(300px);
   }
   
   .carousel-item img {
-    width: 550px;
-    height: 320px;
+    aspect-ratio: 16/9;
     border-radius: 16px;
     box-shadow: 0 25px 50px rgba(0,0,0,.45);
   }
@@ -155,13 +211,24 @@
 
 /* For very large screens */
 @media (min-width: 1400px) {
+  .scene {
+    height: 600px;
+  }
+  
+  .carousel-item {
+    --img-width: 500px;
+    transform:
+      translate(-50%, -50%)
+      rotateY(calc(360deg / 4 * var(--i)))
+      translateZ(360px);
+  }
+  
   .carousel-item img {
-    width: 680px;
-    height: 380px;
+    aspect-ratio: 16/9;
   }
 }
 
-/* Adjust animation for mobile */
+/* Adjust animation speed for mobile */
 @media (max-width: 599px) {
   .carousel {
     animation: rotate 18s linear infinite;
@@ -170,21 +237,22 @@
 
 /* Touch device optimizations */
 @media (hover: none) and (pointer: coarse) {
+  .scene {
+    overflow: visible;
+  }
+  
   .carousel {
     animation-play-state: running;
   }
   
-  /* Pause on touch */
   .carousel:active {
     animation-play-state: paused;
   }
   
-  /* Reset hover effect for touch */
   .carousel:hover {
     animation-play-state: running;
   }
   
-  /* Better touch feedback */
   .carousel-item img {
     -webkit-tap-highlight-color: transparent;
   }
@@ -194,23 +262,17 @@
   }
 }
 
-/* Very small phones (less than 375px wide) */
-@media (max-width: 374px) {
-  .scene {
-    height: 240px;
-    perspective: 600px;
+/* Pause animation when user prefers reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .carousel {
+    animation: none;
   }
   
   .carousel-item {
-    transform:
-      translate(-50%, -50%)
-      rotateY(calc(360deg / 4 * var(--i)))
-      translateZ(90px);
+    transition: none;
   }
   
   .carousel-item img {
-    width: 150px;
-    height: 100px;
-    border-radius: 6px;
+    transition: none;
   }
 }
