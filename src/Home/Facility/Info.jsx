@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
-import firsts from "../../assets/about/5.JPG"
+import firsts from "../../assets/about/5.jpg"
 import first from "../../assets/about/4.jpg"
 import second from "../../assets/about/6.jpg"
 import forth from "../../assets/about/7.jpg"
