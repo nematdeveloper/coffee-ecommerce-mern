@@ -1,16 +1,14 @@
 {
   "header": {
-    "title": "اسناد شرکت"
-    ,
-"downloadheader": "فایل‌ها"
-
+    "title": "اسناد شرکت",
+    "downloadheader": "فایل‌ها"
   },
   "buttons": {
     "download": "دانلود",
     "downloadAria": "دانلود {{fileName}}"
   },
   "alerts": {
-    "downloadNotConfigured": "لینک دانلود فایل \"{{fileName}}\" هنوز پیکربندی نشده است.",
+    "downloadNotConfigured": "لینک دانلود فایل «{{fileName}}» هنوز تنظیم نشده است.",
     "downloading": "در حال دانلود {{fileName}}..."
   },
   "console": {
@@ -21,29 +19,29 @@
   },
   "files": {
     "file1": {
-      "name": "کاتالوگ",
+      "name": "کاتالوگ محصولات",
       "type": "PDF",
-      "size": "9.65 مگابایت"
+      "size": "9.65 MB"
     },
     "file2": {
-      "name": "بروشور",
+      "name": "بروشور شرکت",
       "type": "PDF",
-      "size": "2.43 مگابایت"
+      "size": "2.43 MB"
     },
     "file3": {
-      "name": "پروفایل شرکت رایان زعفران",
+      "name": "پروفایل شرکت Breva Coffee",
       "type": "PDF",
-      "size": "3.69 مگابایت"
+      "size": "3.69 MB"
     },
     "file4": {
-      "name": "آزمایشگاه کنترل کیفیت زعفران",
+      "name": "گزارش کنترل کیفیت قهوه",
       "type": "PDF",
-      "size": "1.97 مگابایت"
+      "size": "1.97 MB"
     },
     "file5": {
-      "name": "عملیات کاشت زعفران",
+      "name": "راهنمای کشاورزی و منابع‌یابی قهوه",
       "type": "PDF",
-      "size": "1.94 مگابایت"
+      "size": "1.94 MB"
     }
   }
 }

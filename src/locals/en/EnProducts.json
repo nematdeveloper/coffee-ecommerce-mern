@@ -1,30 +1,28 @@
-
-    {
-  
-    "products":{
-       "besttitle":"Best Products",
-        "title":"All Products",
-        "Count":"Rayan Saffron",
-        "names":"Name:",
-        "types":"Type:",
-        "searchPlaceholder":"Search Our Products",
-        "view":"Veiw Details",
-       "bestCount":"Taste the Life",
-       "min":"Minimum",
-       "stock":"In Stock",
-       "addcart":"Add to Cart",
-       "addedToCart":"Product has been added to cart!"
-    ,"emptyCart": "Your cart is empty",
+{
+  "products": {
+    "besttitle": "Best Products",
+    "title": "All Products",
+    "Count": "Breva Coffee",
+    "names": "Name:",
+    "types": "Type:",
+    "searchPlaceholder": "Search Our Products",
+    "view": "View Details",
+    "bestCount": "Taste the Life",
+    "min": "Minimum",
+    "stock": "In Stock",
+    "addcart": "Add to Cart",
+    "addedToCart": "Product has been added to cart!",
+    "emptyCart": "Your cart is empty",
     "shoppingCart": "Shopping Cart",
     "clearAll": "Clear All",
     "productDetails": "Product Details",
     "action": "Action",
     "orderSummary": "Order Summary",
     "itemsInCart": "Items in Cart",
-    "quantityInfo": "Please note that the quantities and availability are updated every 24 hours. For real-time stock information, contact our support team.",
+    "quantityInfo": "Please note that quantities and availability are updated every 24 hours. For real-time stock information, contact our support team.",
     "proceedToCheckout": "Proceed to Checkout",
-    "continueShopping": "Continue Shopping"
-    ,"orderHasBeenSubmitted": "Order has been submitted",
+    "continueShopping": "Continue Shopping",
+    "orderHasBeenSubmitted": "Order has been submitted",
     "failedToSubmitOrder": "Failed to submit order: Please ensure all fields are filled.",
     "orderErrorOccurred": "An error occurred while submitting your order.",
     "step1": "Step 1",
@@ -39,13 +37,13 @@
     "phoneNumber": "Phone Number *",
     "shippingType": "Shipping Type *",
     "selectShippingMethod": "Select your preferred purchase type:",
-    "inPockets": "Bulk Saffron",
-    "notInPockets": "Packaged Saffron",
+    "inPockets": "Whole Bean",
+    "notInPockets": "Ground Coffee",
     "itemsInCartSummary": "{{count}} item in cart",
     "itemsInCartSummary_plural": "{{count}} items in cart",
     "placeOrder": "Place Order",
-    "requiredFields": "* Required fields"
-    ,"helloOrderPlaced": "Hello! I have placed an order.",
+    "requiredFields": "* Required fields",
+    "helloOrderPlaced": "Hello! I have placed an order.",
     "address": "Address",
     "shippingMethod": "Shipping Method",
     "products": "Products",
@@ -54,27 +52,25 @@
     "orderDetails": "Order Details",
     "sendInvoiceWhatsApp": "Send Invoice via WhatsApp",
     "backToHome": "Back to Home"
-  
-    },
-"header": {
+  },
+  "header": {
     "all": {
-      "title1": "Saffron at its Finest",
-      "subtitle1": "Carefully selected and quality-verified threads",
+      "title1": "Coffee at its Finest",
+      "subtitle1": "Carefully selected and quality-verified beans",
       "title2": "Elegance in Every Pack",
       "subtitle2": "Traditional meets modern",
       "title3": "Luxury Sealed for Perfection",
       "subtitle3": "Ethically produced"
     },
-    "saffron": {
-      "title1": "Pure Saffron Threads",
+    "coffee": {
+      "title1": "Pure Single-Origin Beans",
       "subtitle1": "Highest grade available",
       "title2": "Direct Farm Fresh",
       "subtitle2": "Harvested with care"
     },
-    "spices": {
-      "title1": "Aromatic Spices",
+    "blends": {
+      "title1": "Aromatic Blends",
       "subtitle1": "Rich flavors & aromas"
-    
-    }}
-
+    }
+  }
 }

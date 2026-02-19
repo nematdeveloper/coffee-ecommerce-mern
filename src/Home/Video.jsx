@@ -9,10 +9,10 @@ import "swiper/css/navigation";
 /* ---------------- DATA ---------------- */
 
 const videos = [
-  "https://www.youtube.com/embed/hJ4uVvcVbmc?start=20&rel=0&modestbranding=1",
-  "https://www.youtube.com/embed/IivszRSKtjU?rel=0&modestbranding=1",
-  "https://www.youtube.com/embed/0aLBcGed21U?rel=0&modestbranding=1",
-  "https://www.youtube.com/embed/JrRXRqDDiA0?rel=0&modestbranding=1",
+  "https://www.youtube.com/embed/0jIeCAOkgcQ?si=ndN929RjTfQAqtb6=1",
+  "https://www.youtube.com/embed/0jIeCAOkgcQ?si=ndN929RjTfQAqtb6=1",
+  "https://www.youtube.com/embed/0jIeCAOkgcQ?si=ndN929RjTfQAqtb6=1",
+
  
 ];
 

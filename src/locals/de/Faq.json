@@ -1,0 +1,93 @@
+{
+  "header": {
+    "faqs": "FAQs",
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Haben Sie eine Frage? Wir helfen Ihnen gerne.",
+    "searchPlaceholder": "Fragen durchsuchen...",
+    "clearSearch": "Suche löschen"
+  },
+  "contactSection": {
+    "avatarAlt1": "Support-Teammitglied 1",
+    "avatarAlt2": "Support-Teammitglied 2",
+    "avatarAlt3": "Support-Teammitglied 3",
+    "avatarAlt4": "Support-Teammitglied 4",
+    "title": "Noch eine Frage?",
+    "subtitle": "Können Sie die Antwort nicht finden? Chatten Sie mit unserem freundlichen Team.",
+    "contactButton": "Kontaktieren Sie uns",
+    "contactButtonAria": "Kontaktieren Sie uns über WhatsApp"
+  },
+  "questions": {
+    "q1": {
+      "question": "Was sind die offiziellen Lizenzen und Registrierungsnummern Ihres Unternehmens?",
+      "answer": "Breva Coffee ist vollständig lizenziert und konform mit allen geltenden Lebensmittelsicherheits- und Handelsvorschriften. Bitte kontaktieren Sie uns für vollständige Angaben."
+    },
+    "q2": {
+      "question": "Wie kann ich Preise für Ihre Kaffeeprodukte erhalten?",
+      "answer": "Bitte besuchen Sie unsere Shop-Seite für aktuelle Preise. Für Versandkosten oder Großhandelspreise wenden Sie sich an info@brevacoffee.com."
+    },
+    "q3": {
+      "question": "Wie kann ich eine Proforma-Rechnung anfordern?",
+      "answer": "Wählen Sie Ihre gewünschten Produkte mit Spezifikationen aus und senden Sie die Details per E-Mail oder WhatsApp. Unser Team antwortet innerhalb von 24 Stunden."
+    },
+    "q4": {
+      "question": "Wie lange ist Ihr Kaffee haltbar?",
+      "answer": "Unser Kaffeebohnen hat ab dem Röstzeitpunkt eine Haltbarkeit von 12 Monaten. Gemahlener Kaffee sollte innerhalb von 6 Monaten konsumiert werden."
+    },
+    "q5": {
+      "question": "Wie sollte ich Kaffee lagern?",
+      "answer": "An einem kühlen, trockenen Ort, weg von direktem Licht und Wärme aufbewahren. In einem luftdichten Behälter aufbewahren. Kühlschrank vermeiden, da Feuchtigkeit den Geschmack beeinflusst."
+    },
+    "q6": {
+      "question": "Wie lange sind Ihre Preise gültig?",
+      "answer": "Unsere Preise werden regelmäßig basierend auf Marktbedingungen aktualisiert. Angebotene Preise sind 7 Tage gültig."
+    },
+    "q7": {
+      "question": "Was sind Ihre Großverpackungsoptionen?",
+      "answer": "Für Großbestellungen: 1kg vakuumversiegelte Beutel, als ganze Bohne oder gemahlen, in Standard-Exportkartons verpackt."
+    },
+    "q8": {
+      "question": "Was sind Ihre Mindest- und Höchstbestellmengen?",
+      "answer": "Einzelhandel: Mindestens 250g, an Ihre Adresse geliefert. Großhandel: Mindestens 10kg, höchstens 500kg pro Bestellung."
+    },
+    "q9": {
+      "question": "Bieten Sie Kaffeequalitätsanalysen an?",
+      "answer": "Ja. Unser gesamter Kaffee wird getestet und Cupping-Ergebnisse sind auf Anfrage erhältlich."
+    },
+    "q10": {
+      "question": "Bieten Sie Eigenmarken an?",
+      "answer": "Ja. Wir bieten individuelle Verpackung und Eigenmarken für Bestellungen über 10kg an."
+    },
+    "q11": {
+      "question": "Welche Exportdokumente stellen Sie bereit?",
+      "answer": "Wir stellen alle erforderlichen Exportdokumente bereit: Packliste, Laboranalysebericht, Ursprungszeugnis, Handelsrechnung und Luftfrachtbrief."
+    },
+    "q12": {
+      "question": "Was sind Ihre Zahlungsbedingungen?",
+      "answer": "50% Anzahlung, 50% Restbetrag vor dem Versand. Banküberweisung und andere vereinbarte Zahlungsmethoden werden akzeptiert."
+    },
+    "q13": {
+      "question": "Was ist Ihre Lieferzeit?",
+      "answer": "Bestellungen werden innerhalb von 7-14 Tagen nach Zahlungsbestätigung versandt."
+    },
+    "q14": {
+      "question": "Wie versenden Sie Ihre Produkte?",
+      "answer": "Wir versenden per Expresspost, Luftfracht oder Seefracht je nach Zielort und Bestellgröße."
+    },
+    "q15": {
+      "question": "Wie kann ich Exklusivhändler werden?",
+      "answer": "Kontaktieren Sie uns per E-Mail unter info@brevacoffee.com mit Ihrer Anfrage. Wir begrüßen exklusive Partnerschafts- und Vertriebsmöglichkeiten."
+    }
+  },
+  "search": {
+    "noResultsTitle": "Keine Fragen gefunden",
+    "noResultsFor": "Keine Ergebnisse für",
+    "tryDifferentKeywords": "Versuchen Sie andere Schlüsselwörter oder durchsuchen Sie alle Fragen",
+    "showAllQuestions": "Alle Fragen",
+    "found": "Gefunden",
+    "resultSingular": " Ergebnis",
+    "resultPlural": " Ergebnisse",
+    "for": "für",
+    "expanded": "erweitert",
+    "collapsed": "reduziert"
+  }
+}

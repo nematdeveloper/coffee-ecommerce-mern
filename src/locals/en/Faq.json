@@ -5,84 +5,79 @@
     "subtitle": "Have a question? We're here to help.",
     "searchPlaceholder": "Search questions...",
     "clearSearch": "Clear search"
-  }
-  ,
+  },
   "contactSection": {
     "avatarAlt1": "Support team member 1",
     "avatarAlt2": "Support team member 2",
     "avatarAlt3": "Support team member 3",
     "avatarAlt4": "Support team member 4",
     "title": "Still have a question?",
-    "subtitle": "Can't find the answer you're looking for? Please chat to our friendly team.",
+    "subtitle": "Can't find the answer you're looking for? Please chat with our friendly team.",
     "contactButton": "Contact Us",
     "contactButtonAria": "Contact us via WhatsApp"
-  
-}
-,
-  
+  },
   "questions": {
     "q1": {
       "question": "What are your company's official licenses and registration numbers?",
-      "answer": "Our company is fully licensed and compliant. Here are our official credentials: Business License #: 60857, Business Registration #: 135358, Brand Registration #: 23621, U.S. FDA Registration #: 13286924580, EU REX #: AFREXEXPD123456873KBL"
+      "answer": "Breva Coffee is fully licensed and compliant with all applicable food safety and commercial regulations. Please contact us for full credential details."
     },
     "q2": {
-      "question": "How can I get pricing for your saffron products?",
-      "answer": "Please visit our Store Page for current FOB prices. For shipping costs, check our Export Page. For direct pricing inquiries, contact our Sales Department at +93784061919."
+      "question": "How can I get pricing for your coffee products?",
+      "answer": "Please visit our Store Page for current prices. For shipping costs or bulk pricing, contact our Sales Department at info@brevacoffee.com."
     },
     "q3": {
       "question": "How do I request a proforma invoice?",
-      "answer": "Select your desired products with specifications and send details via email or WhatsApp. Our team responds within 24 hours. Phone support is available from 9 AM to 9 PM."
+      "answer": "Select your desired products with specifications and send details via email or WhatsApp. Our team responds within 24 hours. Phone support is available from 9 AM to 6 PM."
     },
     "q4": {
-      "question": "What is the shelf life of your saffron?",
-      "answer": "Our saffron has a 3-year validity period from the production date."
+      "question": "What is the shelf life of your coffee?",
+      "answer": "Our whole bean coffee has a shelf life of 12 months from the roast date. Ground coffee is best consumed within 6 months."
     },
     "q5": {
-      "question": "How should I store saffron?",
-      "answer": "Store in a cool, dry place away from direct light at temperatures around 30°C (86°F)."
+      "question": "How should I store coffee?",
+      "answer": "Store in a cool, dry place away from direct light and heat. Keep in an airtight container. Avoid the refrigerator as moisture affects flavor."
     },
     "q6": {
       "question": "How long are your prices valid?",
-      "answer": "Due to market fluctuations, all price lists and pre-invoices are valid for one day. For large orders, we can extend price validity to three days."
+      "answer": "Our prices are updated regularly based on market conditions. Quoted prices are valid for 7 days. For large orders, we can extend price validity."
     },
     "q7": {
       "question": "What are your bulk packaging options?",
-      "answer": "For bulk orders: 500g vacuum-sealed packs in paper boxes, with 20 boxes per standard five-layer carton."
+      "answer": "For bulk orders: 1kg vacuum-sealed bags, available in whole bean or ground, packed in standard export cartons."
     },
     "q8": {
       "question": "What are your minimum and maximum order quantities?",
-      "answer": "Retail: Minimum 250g in metallic cans, shipped to your address. Wholesale: Minimum 10kg, maximum 500kg per order, shipped to your country's airport."
+      "answer": "Retail: Minimum 250g, shipped to your address. Wholesale: Minimum 10kg, maximum 500kg per order, shipped to your destination."
     },
     "q9": {
-      "question": "Do you provide saffron quality analysis?",
-      "answer": "Yes. Our advanced laboratory is certified by Afghanistan's National Standard Organization. All products are tested, and analysis certificates are provided upon request."
+      "question": "Do you provide coffee quality analysis?",
+      "answer": "Yes. All our coffee is tested and cupping scores are available upon request. We work with certified quality control labs."
     },
     "q10": {
       "question": "Do you offer private labeling?",
-      "answer": "Yes. We provide custom packaging and private labeling for orders over 10kg of saffron."
+      "answer": "Yes. We provide custom packaging and private labeling for orders over 10kg."
     },
     "q11": {
       "question": "What export documents do you provide?",
-      "answer": "We provide all required Afghanistan export documents: Packing List, Lab Analysis Report, Phytosanitary Certificate, Origin Form A (Safta) Certificate, Commercial Invoice, Customs Declaration, and Air Waybill or Transport Bill."
+      "answer": "We provide all required export documents: Packing List, Lab Analysis Report, Phytosanitary Certificate, Certificate of Origin, Commercial Invoice, Customs Declaration, and Air Waybill or Transport Bill."
     },
     "q12": {
       "question": "What are your payment terms?",
-      "answer": "50% advance payment, 50% balance after receiving all original export documents. Airway bill is sent after final payment. Payments are processed through our partner company in Dubai, UAE due to banking limitations in Afghanistan."
+      "answer": "50% advance payment, 50% balance before shipment. We accept bank transfer and other agreed payment methods."
     },
     "q13": {
       "question": "What is your delivery time?",
-      "answer": "Goods are shipped within 10-15 days after the initial deposit, delivered CFR/C&F to the approved destination port. Note: Import duties are not included."
+      "answer": "Orders are shipped within 7-14 days after payment confirmation, delivered to your destination port or address."
     },
     "q14": {
       "question": "How do you ship products?",
-      "answer": "We ship via express post, air freight, sea freight, or truck transport depending on destination and order size."
+      "answer": "We ship via express post, air freight, or sea freight depending on destination and order size."
     },
     "q15": {
-      "question": "How can I become an exclusive agent?",
-      "answer": "Contact us via email at info@rayansaffron.af or phone at +93784061919 with your request. We welcome exclusive partnership opportunities."
+      "question": "How can I become an exclusive distributor?",
+      "answer": "Contact us via email at info@brevacoffee.com with your request. We welcome exclusive partnership and distribution opportunities."
     }
-  }
-,
+  },
   "search": {
     "noResultsTitle": "No questions found",
     "noResultsFor": "No results for",
@@ -95,5 +90,4 @@
     "expanded": "expanded",
     "collapsed": "collapsed"
   }
-
 }

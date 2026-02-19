@@ -1,8 +1,8 @@
 import React from "react"
-import First from "../assets/Certs/1.jpg"
-import Second from "../assets/Certs/2.jpg"
-import Third from "../assets/Certs/3.jpg"
-import Forth from "../assets/Certs/4.jpg"
+import First from "../assets/about/2.webp"
+import Second from "../assets/about/3.webp"
+import Third from "../assets/about/2.webp"
+import Forth from "../assets/about/3.webp"
 import "./css/Cert.css"
 
 const images = [First, Second, Third, Forth]

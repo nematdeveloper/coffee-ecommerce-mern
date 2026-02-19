@@ -4,7 +4,7 @@
     "products": "Products",
     "about": "About",
     "certificates": "Certificates",
-    "downloadData": "Download Data",
+    "downloadData": "Downloads",
     "blog": "Blog",
     "contact": "Contact",
     "faq": "FAQ",
@@ -21,12 +21,12 @@
     "logoutSuccessText": "You have successfully logged out.",
     "admin": "Admin Panel",
     "loginSignup": "Login / Sign Up",
-    "logout":"logout"
+    "logout": "Logout"
   },
-   "footer": {
+  "footer": {
     "links": "Links",
     "solutions": "Solutions",
-      "team": "Download Files",
+    "team": "Download Files",
     "faq": "FAQs",
     "bestProducts": "Best Products",
     "socialMedia": "Social Media",
@@ -41,7 +41,7 @@
     "rights": "All rights reserved"
   },
   "newsletter": {
-    "description": "Join our newsletter to stay up to date with features and updates and releases",
+    "description": "Join our newsletter to stay up to date with new blends, offers, and coffee news",
     "placeholder": "Enter your email",
     "button": "Subscribe",
     "disclaimer": "By subscribing to our newsletter you agree with our Privacy Policy and provide consent to receive updates from our company",
@@ -49,41 +49,39 @@
     "success": "You joined successfully!",
     "tryLater": "Please try later",
     "error": "Something went wrong"
-  }
-  ,
+  },
   "login": {
     "error": "Error",
     "success": "Success",
     "somethingWentWrong": "Something went wrong!",
     "accountCreatedSuccess": "Account created successfully!",
     "networkError": "Network error!",
-    "rayanSaffronLogo": "Rayan Saffron Logo",
+    "rayanSaffronLogo": "Breva Coffee Logo",
     "signUp": "Login",
     "enterEmailPassword": "Please enter your email and password to Login.",
     "email": "Email",
     "enterYourEmail": "Enter your email",
     "password": "Password",
     "enterYourPassword": "Enter your password",
-    "creatingAccount": "Creating Account...",
+    "creatingAccount": "Logging in...",
     "createAccount": "Login",
-    "alreadyHaveAccount": "Dont have an account?",
-    "logIn": "Signup",
-    "rayanSaffron": "Rayan Saffron",
-    "trustedLeader": "A trusted leader in premium saffron with over a decade of expertise.",
-    "bestPlatform": "The best platform for selling genuine saffron in the Middle East and Europe",
+    "alreadyHaveAccount": "Don't have an account?",
+    "logIn": "Sign Up",
+    "rayanSaffron": "Breva Coffee",
+    "trustedLeader": "A trusted leader in premium coffee with years of expertise.",
+    "bestPlatform": "The best platform for ordering genuine specialty coffee worldwide",
     "oneHundredPlus": "100+",
-    "successfulCooperation": "Successful cooperation"
-  }
-,
+    "successfulCooperation": "Satisfied customers"
+  },
   "signup": {
     "error": "Error",
     "success": "Success",
     "somethingWentWrong": "Something went wrong!",
     "accountCreatedSuccess": "Account created successfully!",
     "networkError": "Network error!",
-    "rayanSaffronLogo": "Rayan Saffron Logo",
+    "rayanSaffronLogo": "Breva Coffee Logo",
     "signUp": "Sign Up",
-    "enterInfoToRegister": "Please enter the following information to register on the Rayan Saffron website.",
+    "enterInfoToRegister": "Please enter the following information to register on the Breva Coffee website.",
     "username": "Username",
     "enterYourUsername": "Enter your username",
     "email": "Email",
@@ -94,16 +92,14 @@
     "createAccount": "Create Account",
     "alreadyHaveAccount": "Already have an account?",
     "logIn": "Log in",
-    "rayanSaffron": "Rayan Saffron",
-    "trustedLeader": "A trusted leader in premium saffron with over a decade of expertise.",
-    "bestPlatform": "The best platform for selling genuine saffron in the Middle East and Europe",
+    "rayanSaffron": "Breva Coffee",
+    "trustedLeader": "A trusted leader in premium coffee with years of expertise.",
+    "bestPlatform": "The best platform for ordering genuine specialty coffee worldwide",
     "oneHundredPlus": "100+",
-    "successfulCooperation": "Successful cooperation"
-  }
-
-  ,
+    "successfulCooperation": "Satisfied customers"
+  },
   "chatbot": {
-    "initialMessage": "Hello! I'm your assistant. How can I help you today?",
+    "initialMessage": "Hello! I'm your Breva Coffee assistant. How can I help you today?",
     "openButton": "Open chat",
     "title": "Chat Assistant",
     "status": "Online",
@@ -116,6 +112,4 @@
     "sendButton": "Send message",
     "footer": "Powered by AI Assistant"
   }
-
-
 }

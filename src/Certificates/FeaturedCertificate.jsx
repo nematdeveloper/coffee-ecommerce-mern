@@ -2,7 +2,7 @@
 import React, { useRef, useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { Award, ExternalLink } from "lucide-react";
-import featuredImage from "../assets/Certs/jawaz.jpg";
+import featuredImage from "../assets/about/2.webp";
 
 const useInView = (threshold = 0.3) => {
   const ref = useRef(null);

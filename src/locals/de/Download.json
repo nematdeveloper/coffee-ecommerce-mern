@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Unternehmensdokumente",
+    "downloadheader": "Dateien"
+  },
+  "buttons": {
+    "download": "Herunterladen",
+    "downloadAria": "{{fileName}} herunterladen"
+  },
+  "alerts": {
+    "downloadNotConfigured": "Download-Link für Datei \"{{fileName}}\" noch nicht konfiguriert.",
+    "downloading": "{{fileName}} wird heruntergeladen..."
+  },
+  "console": {
+    "downloadStarted": "Download gestartet: {{fileName}}"
+  },
+  "download": {
+    "defaultFileName": "download"
+  },
+  "files": {
+    "file1": {
+      "name": "Produktkatalog",
+      "type": "PDF",
+      "size": "9,65 MB"
+    },
+    "file2": {
+      "name": "Unternehmensbroschüre",
+      "type": "PDF",
+      "size": "2,43 MB"
+    },
+    "file3": {
+      "name": "Breva Coffee Unternehmensprofil",
+      "type": "PDF",
+      "size": "3,69 MB"
+    },
+    "file4": {
+      "name": "Kaffee-Qualitätskontrollbericht",
+      "type": "PDF",
+      "size": "1,97 MB"
+    },
+    "file5": {
+      "name": "Leitfaden für Kaffeeanbau und Beschaffung",
+      "type": "PDF",
+      "size": "1,94 MB"
+    }
+  }
+}

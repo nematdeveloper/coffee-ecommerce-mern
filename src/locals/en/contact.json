@@ -1,45 +1,39 @@
 {
   "header": {
-    "title": "Contact us",
-    "touch":"Contact Us"
-    
-  }
-  
-  ,
-  "header": {
     "title": "Get in Touch",
+    "touch": "Contact Us",
     "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible."
   },
   "contactInfo": {
     "title": "Contact Information",
     "phone": {
       "title": "Phone",
-      "details": "+93784061919",
-      "description": "SAT-THUR from 8am to 6pm"
+      "details": "+1 800 000 0000",
+      "description": "MON-FRI from 8am to 6pm"
     },
     "email": {
       "title": "Email",
-      "details": "info@rayansaffron.af",
+      "details": "info@brevacoffee.com",
       "description": "We reply within 24 hours"
     },
     "office": {
       "title": "Office",
-      "details": "Plaque No 41th, Afghanistan Saffron International Market",
-      "description": "Walayat Street, Herat – Afghanistan."
+      "details": "123 Coffee Street, Suite 100",
+      "description": "New York, NY 10001, USA"
     }
   },
   "businessHours": {
     "title": "Business Hours",
     "weekdays": {
-      "days": "Saturday - Thursday",
-      "hours": "8:00 AM - 5:00 PM"
+      "days": "Monday - Friday",
+      "hours": "8:00 AM - 6:00 PM"
     },
     "saturday": {
-      "days": "Thursday",
-      "hours": "08:00 AM - 5:00 PM"
+      "days": "Saturday",
+      "hours": "10:00 AM - 4:00 PM"
     },
     "sunday": {
-      "days": "Friday",
+      "days": "Sunday",
       "hours": "Closed"
     }
   },
@@ -93,36 +87,34 @@
   },
   "footer": {
     "prefix": "Prefer to call? Reach us directly at"
-  
-}
-,
+  },
   "about": {
     "title": "About Us",
-    "subtitle": "We Are Rayan Herat Saffron",
-    "description": "We are a trusted producer, processor, and exporter of premium Afghan saffron, committed to quality, authenticity, and international standards. Through expert sourcing, modern processing, and responsible practices, we deliver exceptional saffron that represents the excellence of Herat to markets around the world."
+    "subtitle": "We Are Breva Coffee",
+    "description": "We are a trusted roaster, processor, and exporter of premium coffee, committed to quality, authenticity, and international standards. Through expert sourcing, modern roasting, and responsible practices, we deliver exceptional coffee that represents excellence to markets around the world."
   },
   "values": {
     "title": "Our Core Values",
     "innovation": {
       "title": "Excellence",
-      "description": "Delivering the finest saffron, every time"
+      "description": "Delivering the finest coffee, every time"
     },
     "excellence": {
       "title": "Integrity",
       "description": "Honest, transparent, and trusted globally"
     },
     "collaboration": {
-      "title": "Sustainability ",
+      "title": "Sustainability",
       "description": "Supporting farmers and responsible sourcing"
     },
     "integrity": {
-      "title": "Customer Delight ",
+      "title": "Customer Delight",
       "description": "Exceeding expectations with every product"
     }
   },
   "mission": {
     "title": "Our Mission",
-    "description": "To deliver exceptional saffron and professional services through continuous improvement and innovation."
+    "description": "To deliver exceptional coffee and professional services through continuous improvement and innovation."
   },
   "social": {
     "title": "Connect With Us",
@@ -144,6 +136,4 @@
       "ariaLabel": "Follow us on Youtube"
     }
   }
-
-
 }

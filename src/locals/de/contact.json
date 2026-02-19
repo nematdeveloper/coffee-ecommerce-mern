@@ -1,0 +1,139 @@
+{
+  "header": {
+    "title": "Kontakt aufnehmen",
+    "touch": "Kontaktieren Sie uns",
+    "subtitle": "Haben Sie Fragen? Wir freuen uns von Ihnen zu hören. Senden Sie uns eine Nachricht und wir antworten so schnell wie möglich."
+  },
+  "contactInfo": {
+    "title": "Kontaktinformationen",
+    "phone": {
+      "title": "Telefon",
+      "details": "+1 800 000 0000",
+      "description": "Mo-Fr von 8:00 bis 18:00 Uhr"
+    },
+    "email": {
+      "title": "E-Mail",
+      "details": "info@brevacoffee.com",
+      "description": "Wir antworten innerhalb von 24 Stunden"
+    },
+    "office": {
+      "title": "Büro",
+      "details": "Kaffeestraße 123, Einheit 100",
+      "description": "New York, NY 10001, USA"
+    }
+  },
+  "businessHours": {
+    "title": "Geschäftszeiten",
+    "weekdays": {
+      "days": "Montag - Freitag",
+      "hours": "08:00 - 18:00 Uhr"
+    },
+    "saturday": {
+      "days": "Samstag",
+      "hours": "10:00 - 16:00 Uhr"
+    },
+    "sunday": {
+      "days": "Sonntag",
+      "hours": "Geschlossen"
+    }
+  },
+  "form": {
+    "title": "Senden Sie uns eine Nachricht",
+    "subtitle": "Füllen Sie das Formular aus und wir melden uns umgehend bei Ihnen.",
+    "fields": {
+      "name": {
+        "label": "Vollständiger Name *",
+        "placeholder": "Max Mustermann",
+        "ariaLabel": "Geben Sie Ihren vollständigen Namen ein"
+      },
+      "email": {
+        "label": "E-Mail-Adresse *",
+        "placeholder": "max@beispiel.de",
+        "ariaLabel": "Geben Sie Ihre E-Mail-Adresse ein"
+      },
+      "message": {
+        "label": "Ihre Nachricht *",
+        "placeholder": "Erzählen Sie uns, wie wir Ihnen helfen können...",
+        "ariaLabel": "Geben Sie Ihre Nachricht ein"
+      }
+    },
+    "submit": {
+      "text": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "loading": "Nachricht wird gesendet",
+      "ariaLabel": "Kontaktformular absenden"
+    },
+    "privacyNote": "Mit dem Absenden dieses Formulars stimmen Sie unserer Datenschutzrichtlinie zu."
+  },
+  "validation": {
+    "nameRequired": "Name ist erforderlich",
+    "emailRequired": "E-Mail ist erforderlich",
+    "emailInvalid": "Bitte geben Sie eine gültige E-Mail ein",
+    "messageRequired": "Nachricht ist erforderlich"
+  },
+  "alerts": {
+    "validation": {
+      "title": "Validierungsfehler",
+      "message": "Bitte füllen Sie alle Pflichtfelder korrekt aus"
+    },
+    "success": {
+      "title": "Erfolg!",
+      "message": "Ihre Nachricht wurde erfolgreich gesendet. Wir melden uns bald bei Ihnen!"
+    },
+    "error": {
+      "title": "Hoppla!",
+      "message": "Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es später erneut."
+    }
+  },
+  "footer": {
+    "prefix": "Lieber anrufen? Erreichen Sie uns direkt unter"
+  },
+  "about": {
+    "title": "Über uns",
+    "subtitle": "Wir sind Breva Coffee",
+    "description": "Wir sind ein vertrauenswürdiger Röster, Verarbeiter und Exporteur von Premiumkaffee, der sich Qualität, Authentizität und internationalen Standards verpflichtet hat."
+  },
+  "values": {
+    "title": "Unsere Kernwerte",
+    "innovation": {
+      "title": "Exzellenz",
+      "description": "Den feinsten Kaffee liefern, jedes Mal"
+    },
+    "excellence": {
+      "title": "Integrität",
+      "description": "Ehrlich, transparent und weltweit vertrauenswürdig"
+    },
+    "collaboration": {
+      "title": "Nachhaltigkeit",
+      "description": "Unterstützung von Landwirten und verantwortungsvolle Beschaffung"
+    },
+    "integrity": {
+      "title": "Kundenzufriedenheit",
+      "description": "Erwartungen mit jedem Produkt übertreffen"
+    }
+  },
+  "mission": {
+    "title": "Unsere Mission",
+    "description": "Außergewöhnlichen Kaffee und professionelle Dienstleistungen durch kontinuierliche Verbesserung und Innovation zu liefern."
+  },
+  "social": {
+    "title": "Verbinden Sie sich mit uns",
+    "description": "Folgen Sie uns für Updates, Einblicke und Hinter-den-Kulissen-Inhalte.",
+    "facebook": {
+      "name": "Facebook",
+      "ariaLabel": "Folgen Sie uns auf Facebook"
+    },
+    "instagram": {
+      "name": "Instagram",
+      "ariaLabel": "Folgen Sie uns auf Instagram"
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "ariaLabel": "Folgen Sie uns auf LinkedIn"
+    },
+    "twitter": {
+      "name": "YouTube",
+      "ariaLabel": "Folgen Sie uns auf YouTube"
+    }
+  }
+}

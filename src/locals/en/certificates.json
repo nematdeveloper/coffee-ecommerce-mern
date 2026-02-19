@@ -2,9 +2,8 @@
   "header": {
     "title": "Certifications & Awards",
     "subtitle": "Our commitment to quality validated by international standards",
-    "cert":"Certificates"
-  }
-  ,
+    "cert": "Certificates"
+  },
   "featuredCertificate": {
     "featuredBadge": "Featured Business Licence",
     "issued": "Issued",
@@ -12,10 +11,7 @@
     "viewDetailsButton": "View Details",
     "visitIssuer": "Visit Issuer",
     "visitIssuerLink": "Visit Business Licence Issuer Website"
-  
-}
-
-,
+  },
   "filter": {
     "title": "Filter Certificates",
     "filterIcon": "Filter icon",
@@ -33,9 +29,7 @@
         "ariaLabel": "Filter by food safety certificates"
       }
     }
-  }
-
-  ,
+  },
   "modal": {
     "closeButton": "Close modal",
     "close": "Close",
@@ -53,14 +47,13 @@
       "foodSafety": "food safety",
       "certificate": "certificate"
     }
-  }
-,
+  },
   "certificates": {
     "iso22000": {
       "title": "Business Licence",
-      "issuer": "Ministry of Industry and Commerce",
+      "issuer": "Chamber of Commerce",
       "date": "2023",
-      "description": "It is Certfied that this license with mentioned name, is registered and issued in accordance with ans subject to the LLC and other effective laws of Afghanistan"
+      "description": "Officially registered and licensed coffee roasting and export business compliant with all applicable commercial laws."
     },
     "organic": {
       "title": "FSSC 22000 V6",
@@ -75,26 +68,24 @@
       "description": "Food Safety Preventive Controls Alliance"
     },
     "haccp": {
-      "title": "Trademark Registration Certificate",
-      "issuer": "Ministry of Industry and Commerce",
-      "date": "2025",
-      "description": "AFGHAN ZAFARAN CONSORTIUM"
+      "title": "HACCP Certification",
+      "issuer": "International Food Safety Authority",
+      "date": "2024",
+      "description": "Hazard Analysis and Critical Control Points certification for coffee processing."
     },
     "goldQuality": {
       "title": "Trademark Registration Certificate",
-      "issuer": "Ministry of Industry and Commerce",
-      "date": "2021",
-      "description": "Rayan Saffron"
+      "issuer": "Intellectual Property Office",
+      "date": "2022",
+      "description": "Breva Coffee — registered trademark"
     },
     "halal": {
       "title": "Halal Certified",
       "issuer": "Islamic Food and Nutrition Council",
       "date": "2023",
-      "description": "Halal certification for production and processing."
+      "description": "Halal certification for coffee production and processing."
     }
-  }
-
-  ,
+  },
   "card": {
     "viewDetails": "View Details",
     "viewDetailsButton": "View details for {{title}}",
@@ -105,8 +96,4 @@
       "quality": "quality"
     }
   }
-
-
-
-
 }

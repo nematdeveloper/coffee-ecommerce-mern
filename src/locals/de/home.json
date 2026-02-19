@@ -1,0 +1,163 @@
+{
+  "hero": {
+    "title1": "Der feinste Kaffee der Welt",
+    "description1": "Kaffeebohnen in Premiumqualität mit außergewöhnlichem Aroma",
+    "title2": "Direkt von unseren Farmen",
+    "description2": "Frisch geernteter Kaffee, weltweit geliefert",
+    "title3": "Zertifizierte Exzellenz",
+    "description3": "International zertifiziert für Sicherheit und Qualität",
+    "title4": "Weltweite Kaffeelieferung",
+    "description4": "Premiumkaffee, geröstet und verpackt, weltweit verschickt",
+    "shopNow": "Jetzt kaufen",
+    "certifications": "Zertifikate ansehen"
+  },
+  "info": {
+    "saffron": {
+      "premiumGrade": {
+        "title": "Kaffeefarm",
+        "information": "Unser Kaffee wird auf dedizierten Farmen unter optimalen Anbaubedingungen angebaut, um Reinheit, Rückverfolgbarkeit und gleichbleibende Qualität von Anfang an zu gewährleisten."
+      },
+      "handPicked": {
+        "title": "Ernte der Kaffeekirschen",
+        "information": "Kaffeekirschen werden bei optimaler Reife sorgfältig von Hand gepflückt, um ihre empfindliche Struktur und natürliche Qualität zu bewahren.",
+        "name": "Produktionszentrum"
+      },
+      "organicCertified": {
+        "title": "Bohnentrennung",
+        "information": "Facharbeiter trennen die Kaffeebohnen sorgfältig und hygienisch aus jeder Kirsche."
+      },
+      "freshHarvest": {
+        "title": "Trocknungsprozess",
+        "information": "Die frisch getrennten Bohnen werden unter kontrollierten Bedingungen schonend getrocknet, um Aroma zu verstärken und Geschmack zu erhalten."
+      },
+      "traditionalCultivation": {
+        "title": "Sortierung & Klassifizierung",
+        "information": "Getrocknete Kaffeebohnen werden nach internationalen Qualitätsparametern wie Geschmacksprofil und Reinheit sorgfältig sortiert."
+      },
+      "qualityTested": {
+        "title": "Röstung",
+        "information": "Bohnen werden mit Präzisionstechniken in einer kontrollierten Umgebung geröstet, um Geschmack, Aroma und optimale Frische zu entfalten."
+      },
+      "sustainableSource": {
+        "title": "Verpackung & Lagerung",
+        "information": "Gerösteter Kaffee wird verpackt und unter überwachten Bedingungen gelagert, um die Qualität bis zum Versand zu erhalten."
+      },
+      "versatileUse": {
+        "title": "Versand & Lieferung",
+        "information": "Bestellungen werden sorgfältig vorbereitet und versendet, um sichere Handhabung, vollständige Rückverfolgbarkeit und pünktliche Lieferung zu gewährleisten."
+      }
+    },
+    "aria": {
+      "goToItem": "Zu {{item}} gehen"
+    }
+  },
+  "video": {
+    "title": {
+      "firstPart": "Sehen Sie unsere",
+      "secondPart": "Kaffeproduktions-Dokumentation"
+    },
+    "iframeTitle": "Video {{number}}",
+    "playHint": "▶ Zum Abspielen klicken",
+    "previousSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie"
+  },
+  "certificates": {
+    "title": "Unsere Zertifikate"
+  },
+  "testimonials": {
+    "johnSmith": {
+      "name": "Mohammad Al-Hussein",
+      "role": "Kaffeehändler",
+      "testimonial": "Wir sind stolz darauf, Premiumkaffee von Breva Coffee zu kaufen. Herausragende Qualität bei jeder Bestellung."
+    },
+    "sarahJohnson": {
+      "name": "Santa De Lores",
+      "role": "Qualitätskontrollmanagerin",
+      "testimonial": "Wir bestätigen die Reinheit, Qualität und Sicherheit des Kaffees von Breva Coffee."
+    },
+    "michaelChen": {
+      "name": "Rohan Kumar",
+      "role": "Kaffeeexperte",
+      "testimonial": "Breva Coffee bietet Kaffee mit großartigem Geschmack und Aroma. Es trägt wirklich die Bedeutung von Taste the Life."
+    },
+    "client": {
+      "title": "Was sie sagen"
+    }
+  },
+  "shipping": {
+    "title": "Versandprozess",
+    "subtitle": "Verfolgen Sie Ihre Bestellung",
+    "steps": {
+      "orderPlaced": {
+        "title": "Bestellungseingang",
+        "desc": "Bestellen & Bestätigen"
+      },
+      "processing": {
+        "title": "Anzahlung",
+        "desc": "50% bezahlt"
+      },
+      "inTransit": {
+        "title": "Bestellvorbereitung",
+        "desc": "Vorbereitet & gesichert"
+      },
+      "delivered": {
+        "title": "Restzahlung & Lieferung",
+        "desc": "Bezahlt & geliefert"
+      }
+    },
+    "progress": {
+      "label": "Fortschritt"
+    },
+    "controls": {
+      "pause": "Animation pausieren",
+      "start": "Animation starten"
+    }
+  },
+  "whyUs": {
+    "subtitle": "Warum uns wählen",
+    "title": "Wo Authentizität auf Exzellenz trifft",
+    "description": "Breva Coffee liefert hochwertigen, exportfähigen Kaffee, der direkt von vertrauenswürdigen Farmen bezogen, fachkundig geröstet und wissenschaftlich getestet wird, um internationale Standards zu erfüllen.",
+    "buttons": {
+      "orderNow": "Jetzt bestellen",
+      "learnMore": "Mehr erfahren"
+    },
+    "features": {
+      "bestQuality": {
+        "title": "Kompromisslose Qualität",
+        "description": "Bei optimaler Reife geerntet und mit Präzision geröstet, um maximales Aroma, Geschmacksintensität und natürliche Reinheit zu bewahren."
+      },
+      "premiumProduct": {
+        "title": "Exportfähiges Premiumprodukt",
+        "description": "Nur sorgfältig ausgewählte Kaffeebohnen, die internationalen Qualitätsmaßstäben entsprechen, werden für die Verpackung zugelassen."
+      },
+      "authenticSource": {
+        "title": "Verifizierter authentischer Ursprung",
+        "description": "Von renommierten Farmen in idealen Kaffeeanbauregionen bezogen, um echten Ursprung und gleichbleibende Qualität zu gewährleisten."
+      },
+      "directFromFarm": {
+        "title": "Direkter Farm-to-Market-Vertrieb",
+        "description": "Eine transparente Lieferkette ohne Zwischenhändler, die Frische, vollständige Rückverfolgbarkeit und faire Beschaffungspraktiken garantiert."
+      }
+    }
+  },
+  "topBar": {
+    "phoneNumber": "+1 800 000 0000",
+    "phoneIcon": "Telefonnummer",
+    "shippingInfo": "Kostenloser Versand für alle Bestellungen",
+    "whatsapp": {
+      "label": "WhatsApp-Chat",
+      "button": "WhatsApp-Chat öffnen"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter"
+    },
+    "mobile": {
+      "expandLabel": "Erweitern für Kontaktoptionen",
+      "expandIcon": "▼",
+      "collapseIcon": "▲"
+    }
+  }
+}

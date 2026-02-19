@@ -4,10 +4,10 @@ import { useTranslation } from 'react-i18next';
 import { MdOutlineShoppingBag } from "react-icons/md";
 import { GrCertificate } from "react-icons/gr";
 import { Link } from 'react-router-dom';
-import img from "../assets/about/10.webp"
-import imgs from "../assets/about/11.webp"
-import imgss from "../assets/products/package/azin/1.jpg"
-import slide from "../assets/products/slide3.jpg"
+import img from "../assets/about/10.jpg"
+import imgs from "../assets/about/6.jpg"
+import imgss from "../assets/about/4.jpg"
+import slide from "../assets/about/5.jpg"
 const Hero = () => {
   const { t } = useTranslation("home");
   const [currentIndex, setCurrentIndex] = useState(0);

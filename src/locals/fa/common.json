@@ -4,10 +4,10 @@
     "products": "محصولات",
     "about": "درباره ما",
     "certificates": "گواهینامه‌ها",
-    "downloadData": "دانلود اطلاعات",
-    "blog": "بلاگ",
-    "contact": "تماس",
-    "faq": "سوالات متداول",
+    "downloadData": "دانلودها",
+    "blog": "وبلاگ",
+    "contact": "تماس با ما",
+    "faq": "سؤالات متداول",
     "auth": "ورود / ثبت‌نام",
     "logout": "خروج",
     "admin": "پنل مدیریت"
@@ -18,7 +18,7 @@
     "yes": "بله",
     "cancel": "لغو",
     "logoutSuccessTitle": "خروج موفق",
-    "logoutSuccessText": "شما با موفقیت خارج شدید.",
+    "logoutSuccessText": "با موفقیت از حساب کاربری خود خارج شدید.",
     "admin": "پنل مدیریت",
     "loginSignup": "ورود / ثبت‌نام",
     "logout": "خروج"
@@ -26,8 +26,8 @@
   "footer": {
     "links": "لینک‌ها",
     "solutions": "راه‌حل‌ها",
-    "team": "دانلود فایل ها",
-    "faq": "سوالات متداول",
+    "team": "دانلود فایل‌ها",
+    "faq": "سؤالات متداول",
     "bestProducts": "بهترین محصولات",
     "socialMedia": "شبکه‌های اجتماعی",
     "social": {
@@ -35,19 +35,19 @@
       "instagram": "اینستاگرام",
       "linkedin": "لینکدین",
       "twitter": "توییتر",
-      "whatsapp": "واتس‌اپ"
+      "whatsapp": "واتساپ"
     },
-    "subscribe": "اشتراک",
-    "rights": "تمام حقوق محفوظ است"
+    "subscribe": "عضویت",
+    "rights": "تمامی حقوق محفوظ است"
   },
   "newsletter": {
-    "description": "به خبرنامه ما بپیوندید تا از ویژگی‌ها، به‌روزرسانی‌ها و انتشارات جدید مطلع شوید",
+    "description": "در خبرنامه ما عضو شوید تا از ترکیب‌های جدید، پیشنهادات و اخبار قهوه مطلع شوید",
     "placeholder": "ایمیل خود را وارد کنید",
-    "button": "اشتراک",
-    "disclaimer": "با اشتراک در خبرنامه ما، با سیاست حفظ حریم خصوصی ما موافقت می‌کنید و رضایت خود را برای دریافت به‌روزرسانی‌ها از شرکت ما اعلام می‌کنید",
-    "enterEmail": "لطفا ایمیل خود را وارد کنید",
-    "success": "شما با موفقیت عضو شدید!",
-    "tryLater": "لطفا بعدا تلاش کنید",
+    "button": "عضویت",
+    "disclaimer": "با عضویت در خبرنامه ما، با سیاست حریم خصوصی موافقت می‌کنید",
+    "enterEmail": "لطفاً ایمیل خود را وارد کنید",
+    "success": "با موفقیت عضو شدید!",
+    "tryLater": "لطفاً بعداً دوباره امتحان کنید",
     "error": "مشکلی پیش آمد"
   },
   "login": {
@@ -56,22 +56,22 @@
     "somethingWentWrong": "مشکلی پیش آمد!",
     "accountCreatedSuccess": "حساب کاربری با موفقیت ایجاد شد!",
     "networkError": "خطای شبکه!",
-    "rayanSaffronLogo": "لوگوی رایان زعفران",
+    "rayanSaffronLogo": "لوگوی Breva Coffee",
     "signUp": "ورود",
-    "enterEmailPassword": "لطفا ایمیل و رمز عبور خود را برای ورود وارد کنید.",
+    "enterEmailPassword": "لطفاً ایمیل و رمز عبور خود را برای ورود وارد کنید.",
     "email": "ایمیل",
     "enterYourEmail": "ایمیل خود را وارد کنید",
     "password": "رمز عبور",
     "enterYourPassword": "رمز عبور خود را وارد کنید",
-    "creatingAccount": "در حال ایجاد حساب...",
+    "creatingAccount": "در حال ورود...",
     "createAccount": "ورود",
     "alreadyHaveAccount": "حساب کاربری ندارید؟",
     "logIn": "ثبت‌نام",
-    "rayanSaffron": "رایان زعفران",
-    "trustedLeader": "یک رهبر معتمد در زمینه زعفران ممتاز با بیش از یک دهه تجربه.",
-    "bestPlatform": "بهترین پلتفرم برای فروش زعفران اصل در خاورمیانه و اروپا",
+    "rayanSaffron": "Breva Coffee",
+    "trustedLeader": "رهبر مورد اعتماد در قهوه برتر با سال‌ها تخصص.",
+    "bestPlatform": "بهترین پلتفرم برای سفارش قهوه تخصصی اصیل در سراسر جهان",
     "oneHundredPlus": "۱۰۰+",
-    "successfulCooperation": "همکاری موفق"
+    "successfulCooperation": "مشتریان راضی"
   },
   "signup": {
     "error": "خطا",
@@ -79,9 +79,9 @@
     "somethingWentWrong": "مشکلی پیش آمد!",
     "accountCreatedSuccess": "حساب کاربری با موفقیت ایجاد شد!",
     "networkError": "خطای شبکه!",
-    "rayanSaffronLogo": "لوگوی رایان زعفران",
+    "rayanSaffronLogo": "لوگوی Breva Coffee",
     "signUp": "ثبت‌نام",
-    "enterInfoToRegister": "لطفا اطلاعات زیر را برای ثبت‌نام در وبسایت رایان زعفران وارد کنید.",
+    "enterInfoToRegister": "لطفاً اطلاعات زیر را برای ثبت‌نام در وبسایت Breva Coffee وارد کنید.",
     "username": "نام کاربری",
     "enterYourUsername": "نام کاربری خود را وارد کنید",
     "email": "ایمیل",
@@ -90,26 +90,26 @@
     "enterYourPassword": "رمز عبور خود را وارد کنید",
     "creatingAccount": "در حال ایجاد حساب...",
     "createAccount": "ایجاد حساب",
-    "alreadyHaveAccount": "از قبل حساب کاربری دارید؟",
+    "alreadyHaveAccount": "قبلاً حساب کاربری دارید؟",
     "logIn": "ورود",
-    "rayanSaffron": "رایان زعفران",
-    "trustedLeader": "یک رهبر معتمد در زمینه زعفران ممتاز با بیش از یک دهه تجربه.",
-    "bestPlatform": "بهترین پلتفرم برای فروش زعفران اصل در خاورمیانه و اروپا",
+    "rayanSaffron": "Breva Coffee",
+    "trustedLeader": "رهبر مورد اعتماد در قهوه برتر با سال‌ها تخصص.",
+    "bestPlatform": "بهترین پلتفرم برای سفارش قهوه تخصصی اصیل در سراسر جهان",
     "oneHundredPlus": "۱۰۰+",
-    "successfulCooperation": "همکاری موفق"
+    "successfulCooperation": "مشتریان راضی"
   },
   "chatbot": {
-    "initialMessage": "سلام! من دستیار شما هستم. امروز چطور می‌توانم کمکتان کنم؟",
+    "initialMessage": "سلام! من دستیار Breva Coffee شما هستم. چطور می‌توانم کمک کنم؟",
     "openButton": "باز کردن چت",
-    "title": "دستیار گفتگو",
+    "title": "دستیار چت",
     "status": "آنلاین",
     "clearChat": "پاک کردن تاریخچه چت",
     "clear": "پاک کردن",
     "closeButton": "بستن چت",
-    "error": "ببخشید، با خطایی مواجه شدم. لطفا دوباره تلاش کنید.",
-    "connectionError": "خطای اتصال. لطفا اینترنت خود را بررسی کرده و دوباره تلاش کنید.",
+    "error": "متأسفم، خطایی رخ داد. لطفاً دوباره امتحان کنید.",
+    "connectionError": "خطای اتصال. لطفاً اتصال اینترنت خود را بررسی کنید.",
     "placeholder": "پیام خود را اینجا تایپ کنید...",
     "sendButton": "ارسال پیام",
-    "footer": "قدرت گرفته از دستیار هوش مصنوعی"
+    "footer": "پشتیبانی‌شده توسط دستیار هوش مصنوعی"
   }
 }

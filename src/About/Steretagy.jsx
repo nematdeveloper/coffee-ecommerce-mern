@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
-import Overveiw from "../assets/about/5.webp";
+import Overveiw from "../assets/about/5.jpg";
 
 const useInView = () => {
   const ref = useRef(null);

@@ -1,48 +1,46 @@
 {
- "hero": {
-    "title1": "World's Finest Saffron",
-    "description1": "Premium quality saffron threads with exceptional aroma",
+  "hero": {
+    "title1": "World's Finest Coffee",
+    "description1": "Premium quality coffee beans with exceptional aroma",
     "title2": "Directly from Our Farms",
-    "description2": "Freshly harvested saffron, delivered worldwide",
+    "description2": "Freshly harvested coffee, delivered worldwide",
     "title3": "Certified Excellence",
     "description3": "Internationally certified for safety and quality",
-        "title4": "Global Saffron Delivery",
-      "description4": "Premium saffron, cleaned and packaged, shipped worldwide",
+    "title4": "Global Coffee Delivery",
+    "description4": "Premium coffee, roasted and packaged, shipped worldwide",
     "shopNow": "Shop Now",
-    "certifications": "view certificates"
-  }
-
-  ,
-"info": {
+    "certifications": "View Certificates"
+  },
+  "info": {
     "saffron": {
       "premiumGrade": {
-        "title": "Saffron Farm",
-        "information": "Our saffron is cultivated on dedicated farms located in optimal growing conditions to ensure purity, traceability, and consistent quality from the very beginning."
+        "title": "Coffee Farm",
+        "information": "Our coffee is cultivated on dedicated farms located in optimal growing conditions to ensure purity, traceability, and consistent quality from the very beginning."
       },
       "handPicked": {
-        "title": "Harvesting Saffron Flowers",
-        "information": "Saffron flowers are carefully handpicked at peak bloom to protect their delicate structure and preserve their natural quality."
-        ,"name":"Facility center" 
-            },
+        "title": "Harvesting Coffee Cherries",
+        "information": "Coffee cherries are carefully handpicked at peak ripeness to protect their delicate structure and preserve their natural quality.",
+        "name": "Facility Center"
+      },
       "organicCertified": {
-        "title": "Stigma Separation",
-        "information": "Skilled workers meticulously separate the saffron stigmas from each flower, maintaining hygiene and precision at every step."
+        "title": "Bean Separation",
+        "information": "Skilled workers meticulously separate the coffee beans from each cherry, maintaining hygiene and precision at every step."
       },
       "freshHarvest": {
         "title": "Drying Process",
-        "information": "The freshly separated stigmas are gently dried under controlled conditions to enhance aroma, stabilize color, and preserve active compounds."
+        "information": "The freshly separated beans are gently dried under controlled conditions to enhance aroma, stabilize flavor, and preserve active compounds."
       },
       "traditionalCultivation": {
         "title": "Sorting & Grading",
-        "information": "Dried saffron threads are carefully sorted and graded according to international quality parameters, including color strength and purity."
+        "information": "Dried coffee beans are carefully sorted and graded according to international quality parameters, including flavor profile and purity."
       },
       "qualityTested": {
-        "title": "Packaging",
-        "information": "Saffron is packaged in a controlled environment using food-grade materials to protect freshness, potency, and shelf life."
+        "title": "Roasting",
+        "information": "Beans are roasted in a controlled environment using precision techniques to unlock flavor, aroma, and optimal freshness."
       },
       "sustainableSource": {
-        "title": "Finished Goods Storage",
-        "information": "Packaged saffron is stored in designated facilities under monitored conditions to maintain quality until dispatch."
+        "title": "Packaging & Storage",
+        "information": "Roasted coffee is packaged and stored in designated facilities under monitored conditions to maintain quality until dispatch."
       },
       "versatileUse": {
         "title": "Dispatch & Shipping",
@@ -52,53 +50,40 @@
     "aria": {
       "goToItem": "Go to {{item}}"
     }
-  }
-  ,
+  },
   "video": {
     "title": {
       "firstPart": "Watch Our",
-      "secondPart": "FSSC 22000 (V6) Documentry"
+      "secondPart": "Coffee Production Documentary"
     },
     "iframeTitle": "Video {{number}}",
     "playHint": "▶ Click to play",
     "previousSlide": "Previous slide",
     "nextSlide": "Next slide"
-  }
-  ,
+  },
   "certificates": {
     "title": "Our Certificates"
-  
-}
-,
+  },
   "testimonials": {
-    
     "johnSmith": {
       "name": "Mohammad Al-Hussein",
-      "role": "Saffron Trader",
-      "testimonial": "We are proud of purchasing the Premium Afghan Saffron from Rayan Saffron."
+      "role": "Coffee Trader",
+      "testimonial": "We are proud of purchasing premium coffee from Breva Coffee. Outstanding quality every time."
     },
     "sarahJohnson": {
       "name": "Santa De Lores",
       "role": "Quality Control Manager",
-      "testimonial": "We witness the purity, quality and safety of saffron provided by Rayan Saffron."
+      "testimonial": "We witness the purity, quality and safety of coffee provided by Breva Coffee."
     },
     "michaelChen": {
       "name": "Rohan Kumar",
-      "role": "Saffron Expert",
-      "testimonial": "Rayan Saffron provides saffron with great taste and aroma. It really carries the mean of Taste the Life."
+      "role": "Coffee Expert",
+      "testimonial": "Breva Coffee provides coffee with great taste and aroma. It truly carries the meaning of Taste the Life."
+    },
+    "client": {
+      "title": "What They Say"
     }
-
-    ,
-   
-  "client": {
-    "title": "What they say"
-  }
-
-
-  }
-
-
-  ,
+  },
   "shipping": {
     "title": "Shipping Process",
     "subtitle": "Track your order journey",
@@ -127,12 +112,11 @@
       "pause": "Pause Animation",
       "start": "Start Animation"
     }
-  }
-  ,
+  },
   "whyUs": {
     "subtitle": "Why Choose Us",
     "title": "Where Authenticity Meets Excellence",
-    "description": "Rayan Saffron delivers premium, export-quality saffron sourced directly from trusted farms, expertly processed, and scientifically tested to meet international standards—ensuring exceptional purity, powerful aroma, rich flavor, and superior coloring strength.",
+    "description": "Breva Coffee delivers premium, export-quality coffee sourced directly from trusted farms, expertly roasted, and scientifically tested to meet international standards — ensuring exceptional purity, powerful aroma, rich flavor, and superior taste.",
     "buttons": {
       "orderNow": "Order Now",
       "learnMore": "Learn More"
@@ -140,28 +124,26 @@
     "features": {
       "bestQuality": {
         "title": "Uncompromising Quality",
-        "description": "Harvested at peak maturity and processed with precision to preserve maximum aroma, color intensity, and natural purity."
+        "description": "Harvested at peak ripeness and roasted with precision to preserve maximum aroma, flavor intensity, and natural purity."
       },
       "premiumProduct": {
         "title": "Export-Grade Premium Product",
-        "description": "Only carefully selected saffron threads that comply with international quality benchmarks are approved for packaging."
+        "description": "Only carefully selected coffee beans that comply with international quality benchmarks are approved for packaging."
       },
       "authenticSource": {
         "title": "Verified Authentic Origin",
-        "description": "Sourced from reputable farms located in ideal saffron-growing regions, ensuring genuine origin and consistent quality."
+        "description": "Sourced from reputable farms located in ideal coffee-growing regions, ensuring genuine origin and consistent quality."
       },
       "directFromFarm": {
         "title": "Direct Farm-to-Market Supply",
         "description": "A transparent supply chain without intermediaries, guaranteeing freshness, full traceability, and fair sourcing practices."
       }
     }
-  }
-
-  ,
+  },
   "topBar": {
-    "phoneNumber": "0973473473",
+    "phoneNumber": "+1 800 000 0000",
     "phoneIcon": "Phone number",
-    "shippingInfo": "Free shipping of all products",
+    "shippingInfo": "Free shipping on all orders",
     "whatsapp": {
       "label": "Chat on WhatsApp",
       "button": "Open WhatsApp chat"
@@ -178,10 +160,4 @@
       "collapseIcon": "▲"
     }
   }
-
-
-
-
-
-
 }

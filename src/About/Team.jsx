@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { useTranslation } from 'react-i18next';
 import { FaArrowRight } from "react-icons/fa";
-import boss from "../assets/about/boss.jpg"
-import leader from "../assets/about/leader.jpg"
-import finance from "../assets/about/abdul.jpg"
+import boss from "../assets/about/1.png"
+import leader from "../assets/about/1.png"
+import finance from "../assets/about/1.png"
 
 const Team = () => {
   const { t } = useTranslation("about"); // Using "team" namespace

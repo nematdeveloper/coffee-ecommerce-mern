@@ -11,35 +11,35 @@ const FullWidthFileCards = () => {
       name: t("files.file1.name"), 
       type: t("files.file1.type"), 
       size: t("files.file1.size"), 
-      url: "https://www.rayansaffron.af/shared-files/5595/?Rayan-Saffron-COMPANY-PROFILE-LAST-ONE.pdf" 
+      url: "https://cdn.bookey.app/files/pdf/book/en/how-to-make-coffee.pdf" 
     },
     { 
       id: 2, 
       name: t("files.file2.name"), 
       type: t("files.file2.type"), 
       size: t("files.file2.size"), 
-      url: "https://www.rayansaffron.af/shared-files/8129/?%DA%A9%D8%A7%D8%AA%D8%A7%D9%84%D9%88%DA%AF1.pdf" 
+      url: "https://cdn.bookey.app/files/pdf/book/en/how-to-make-coffee.pdf" 
     },
     { 
       id: 3, 
       name: t("files.file3.name"), 
       type: t("files.file3.type"), 
       size: t("files.file3.size"), 
-      url: "https://www.rayansaffron.af/shared-files/8128/?%D8%A8%D8%B1%D9%88%D8%B4%D9%88%D8%B1.pdf" 
+      url: "https://cdn.bookey.app/files/pdf/book/en/how-to-make-coffee.pdf" 
     },
     { 
       id: 4, 
       name: t("files.file4.name"), 
       type: t("files.file4.type"), 
       size: t("files.file4.size"), 
-      url: "https://www.rayansaffron.af/our-profile/" 
+      url: "https://cdn.bookey.app/files/pdf/book/en/how-to-make-coffee.pdf" 
     },
     { 
       id: 5, 
       name: t("files.file5.name"), 
       type: t("files.file5.type"), 
       size: t("files.file5.size"), 
-      url: "https://www.rayansaffron.af/shared-files/5663/?%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%DA%A9%D8%A7%D8%B4%D8%AA-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-2.pdf" 
+      url: "https://cdn.bookey.app/files/pdf/book/en/how-to-make-coffee.pdf" 
     }
   ];
 

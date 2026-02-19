@@ -1,25 +1,25 @@
 {
   "header": {
-    "title": "بلاگ",
-    "blogtitle": "وبلاگ‌ها"
+    "title": "وبلاگ",
+    "blogtitle": "مقالات"
   },
   "search": {
     "placeholder": "جستجو",
     "searchIcon": "آیکون جستجو",
-    "inputLabel": "جستجوی پست‌های بلاگ",
-    "searchb":"جستجوی وبلاگ"
+    "inputLabel": "جستجو در مقالات وبلاگ",
+    "searchb": "جستجو در وبلاگ"
   },
   "errors": {
-    "fetchFailed": "دریافت جزئیات بلاگ ناموفق بود",
-    "blogNotFound": "پست بلاگ پیدا نشد"
+    "fetchFailed": "دریافت جزئیات وبلاگ ناموفق بود",
+    "blogNotFound": "مقاله وبلاگ یافت نشد"
   },
   "buttons": {
     "retry": "تلاش مجدد",
-    "backToBlogs": "بازگشت به بلاگ‌ها",
-    "backToBlogsAria": "بازگشت به تمام پست‌های بلاگ",
+    "backToBlogs": "بازگشت به وبلاگ",
+    "backToBlogsAria": "بازگشت به همه مقالات",
     "previousImage": "تصویر قبلی",
     "nextImage": "تصویر بعدی",
-    "goToImage": "برو به تصویر شماره {{number}}",
+    "goToImage": "رفتن به تصویر {{number}}",
     "backToTop": "بازگشت به بالا"
   },
   "content": {

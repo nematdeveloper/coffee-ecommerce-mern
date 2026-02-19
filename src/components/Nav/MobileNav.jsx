@@ -83,9 +83,9 @@ const MobileNav = () => {
   return (
     <>
       {/* Mobile Header */}
-      <header className="xl:hidden fixed top-0 left-0 right-0 bg-white shadow-lg z-[9999] px-4 py-3">
+      <header className="xl:hidden fixed top-0 left-0 right-0 bg-white shadow-lg z-[9999] px-2 py-1">
         <div className="flex items-center justify-between">
-          <img src={Logo} alt="Company Logo" className="w-16 h-auto" />
+          <img src={Logo} alt="Company Logo" className="w-6 h-6" />
           <div className="flex items-center gap-4">
             <Link to="/shopping" className="p-2">
               <MdOutlineShoppingBag className="text-xl text-gray-700" />

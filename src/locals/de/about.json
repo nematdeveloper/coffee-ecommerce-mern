@@ -1,0 +1,57 @@
+{
+  "header": {
+    "title": "Unsere Werte",
+    "boutheader": "Über uns"
+  },
+  "strategy": {
+    "title": "Unternehmensstrategie",
+    "description1": "Unser Ziel ist es, Premiumkaffee durch Qualität, Fachkompetenz und globale Standards in die Welt zu bringen. Wir liefern außergewöhnlichen Kaffee und professionelle Dienstleistungen mit kontinuierlicher Verbesserung und Innovation.",
+    "description2": "Geleitet von Exzellenz, Integrität, Innovation, Nachhaltigkeit und Kundenzufriedenheit streben wir danach, ein vertrauenswürdiger globaler Marktführer zu sein.",
+    "imageAlt": "Strategieübersichtsbild"
+  },
+  "overview": {
+    "title": "Unternehmensüberblick",
+    "description1": "Breva Coffee ist ein führender Röster, Verpacker und Exporteur von Premiumkaffee mit jahrelanger Expertise in Beschaffung, Verarbeitung und internationalem Handel.",
+    "description2": "In Zusammenarbeit mit geprüften Landwirten und Lieferanten betreibt Breva Coffee eine moderne Anlage, die Qualität und Authentizität bewahrt. Konform mit internationalen Lebensmittelsicherheitsstandards bietet das Unternehmen eine vielfältige Produktpalette an.",
+    "imageAlt": "Überblicksbild"
+  },
+  "features": {
+    "feature1": {
+      "title": "Exzellenz",
+      "text": "Den feinsten Kaffee liefern, jedes Mal"
+    },
+    "feature2": {
+      "title": "Integrität",
+      "text": "Ehrlich, transparent und weltweit vertrauenswürdig"
+    },
+    "feature3": {
+      "title": "Nachhaltigkeit",
+      "text": "Unterstützung von Landwirten und verantwortungsvolle Beschaffung"
+    },
+    "feature4": {
+      "title": "Kundenzufriedenheit",
+      "text": "Erwartungen mit jedem Produkt übertreffen"
+    }
+  },
+  "members": {
+    "ceo": {
+      "name": "Alex Morgan",
+      "role": "Präsident",
+      "info": "Herr Morgan verfügt über jahrelange Erfahrung in der Lebensmittel- und Getränkeindustrie und gründete Breva Coffee mit einer Leidenschaft für Qualität und Nachhaltigkeit."
+    },
+    "cto": {
+      "name": "James Rivera",
+      "role": "Vizepräsident",
+      "info": "Herr Rivera verfügt über mehr als ein Jahrzehnt Erfahrung in der Kaffeeproduktion und -verarbeitung. Er überwacht Marketingstrategien, Mitarbeiterschulung, Finanzmanagement und den täglichen Betrieb."
+    },
+    "financeManager": {
+      "name": "Sarah Collins",
+      "role": "Finanz- und Verwaltungsmanagerin",
+      "info": "Sarah Collins dient seit den Anfängen des Unternehmens als Finanz- und Verwaltungsmanagerin bei Breva Coffee. Sie überwacht Finanzkonten und verwaltet alle Aktivitäten der Finanz- und Verwaltungsabteilungen."
+    }
+  },
+  "foodSafety": {
+    "title": "Lebensmittelsicherheitspolitik",
+    "description": "Breva Coffee verpflichtet sich, höchste Lebensmittelsicherheitsstandards in allen Phasen der Kaffeebeschaffung, -röstung, -verpackung und -verteilung zu gewährleisten. Wir halten uns an internationale Standards einschließlich ISO 9001, ISO 22000, FSSC 22000 und HACCP."
+  }
+}

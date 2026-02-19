@@ -1,7 +1,7 @@
 {
   "header": {
-    "title": "Company Documents"
-   , "downloadheader":"Files"
+    "title": "Company Documents",
+    "downloadheader": "Files"
   },
   "buttons": {
     "download": "Download",
@@ -19,27 +19,27 @@
   },
   "files": {
     "file1": {
-      "name": "Catalog",
+      "name": "Product Catalog",
       "type": "PDF",
       "size": "9.65 MB"
     },
     "file2": {
-      "name": "Brochure",
+      "name": "Company Brochure",
       "type": "PDF",
       "size": "2.43 MB"
     },
     "file3": {
-      "name": "Rayan Saffron Company Profile",
+      "name": "Breva Coffee Company Profile",
       "type": "PDF",
       "size": "3.69 MB"
     },
     "file4": {
-      "name": "Saffron Quality Control Laboratory",
+      "name": "Coffee Quality Control Report",
       "type": "PDF",
       "size": "1.97 MB"
     },
     "file5": {
-      "name": "Saffron planting operation",
+      "name": "Coffee Farming & Sourcing Guide",
       "type": "PDF",
       "size": "1.94 MB"
     }

@@ -26,11 +26,11 @@ const MainFooter = () => {
   const [status, setStatus] = useState({ message: '', type: '' });
 
   const socialLinks = [
-    { icon: <FaFacebook />, label: 'facebook', url: 'https://www.facebook.com/rayansaffron' },
-    { icon: <FaInstagram />, label: 'instagram', url: 'https://www.instagram.com/rayan.saffron' },
-    { icon: <FaLinkedin />, label: 'linkedin', url: 'http://www.linkedin.com/in/rayansaffron' },
-    { icon: <FaTwitter />, label: 'twitter', url: 'https://twitter.com/RayanSaffron' },
-    { icon: <FaWhatsapp />, label: 'whatsapp', url: 'https://wa.me/93784061919' }
+   { icon: <FaFacebook />, label: 'facebook', url: 'https://www.facebook.com/brevacoffee' },
+{ icon: <FaInstagram />, label: 'instagram', url: 'https://www.instagram.com/brevacoffee' },
+{ icon: <FaLinkedin />, label: 'linkedin', url: 'https://www.linkedin.com/company/brevacoffee' },
+{ icon: <FaTwitter />, label: 'twitter', url: 'https://twitter.com/brevacoffee' },
+{ icon: <FaWhatsapp />, label: 'whatsapp', url: 'https://wa.me/10000000000' }
   ];
 
   const handleSubscribe = async (e) => {

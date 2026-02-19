@@ -1,16 +1,14 @@
 {
   "header": {
     "title": "Blog",
-     "blogtitle":"Blogs"
-  }
-  ,
+    "blogtitle": "Blogs"
+  },
   "search": {
     "placeholder": "Search",
     "searchIcon": "Search icon",
     "inputLabel": "Search blog posts",
-    "searchb":"Search Blog"
-  }
-  ,
+    "searchb": "Search Blog"
+  },
   "errors": {
     "fetchFailed": "Failed to fetch blog details",
     "blogNotFound": "Blog post not found"
@@ -32,6 +30,4 @@
     "altText": "{{title}} - Image {{index}}",
     "counter": "Image {{current}} of {{total}}"
   }
-
-
 }

@@ -20,7 +20,7 @@ const Social = () => {
       {showIcons && (
         <div className="fixed bottom-24 right-8 z-50 flex flex-col gap-3">
           <button
-            onClick={() => window.open('https://wa.me/93784061919', '_blank')}
+            onClick={() => window.open('https://wa.me/93791813721', '_blank')}
             className="w-12 h-12 rounded-full bg-green-500 text-white shadow-lg hover:bg-green-600 transition-colors flex items-center justify-center"
             title="WhatsApp"
           >
@@ -28,7 +28,7 @@ const Social = () => {
           </button>
 
           <button
-            onClick={() => window.open('https://m.me/rayansaffron.af', '_blank')}
+            onClick={() => window.open('https://m.me/brevacoffee', '_blank')}
             className="w-12 h-12 rounded-full bg-blue-500 text-white shadow-lg hover:bg-blue-600 transition-colors flex items-center justify-center"
             title="Messenger"
           >

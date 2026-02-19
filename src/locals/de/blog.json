@@ -1,0 +1,33 @@
+{
+  "header": {
+    "title": "Blog",
+    "blogtitle": "Beiträge"
+  },
+  "search": {
+    "placeholder": "Suche",
+    "searchIcon": "Such-Symbol",
+    "inputLabel": "Blogbeiträge durchsuchen",
+    "searchb": "Blog durchsuchen"
+  },
+  "errors": {
+    "fetchFailed": "Blog-Details konnten nicht abgerufen werden",
+    "blogNotFound": "Blogbeitrag nicht gefunden"
+  },
+  "buttons": {
+    "retry": "Erneut versuchen",
+    "backToBlogs": "Zurück zum Blog",
+    "backToBlogsAria": "Zurück zu allen Blogbeiträgen",
+    "previousImage": "Vorheriges Bild",
+    "nextImage": "Nächstes Bild",
+    "goToImage": "Zu Bild {{number}} gehen",
+    "backToTop": "Zurück nach oben"
+  },
+  "content": {
+    "minRead": "Min. Lesezeit",
+    "tags": "Tags"
+  },
+  "images": {
+    "altText": "{{title}} - Bild {{index}}",
+    "counter": "Bild {{current}} von {{total}}"
+  }
+}

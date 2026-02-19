@@ -1,0 +1,99 @@
+{
+  "header": {
+    "title": "Zertifizierungen & Auszeichnungen",
+    "subtitle": "Unser Qualitätsengagement durch internationale Standards bestätigt",
+    "cert": "Zertifikate"
+  },
+  "featuredCertificate": {
+    "featuredBadge": "Hervorgehobene Geschäftslizenz",
+    "issued": "Ausgestellt",
+    "viewDetails": "Geschäftslizenz ansehen",
+    "viewDetailsButton": "Details ansehen",
+    "visitIssuer": "Aussteller besuchen",
+    "visitIssuerLink": "Website des Lizenzausstellers besuchen"
+  },
+  "filter": {
+    "title": "Zertifikate filtern",
+    "filterIcon": "Filter-Symbol",
+    "filters": {
+      "all": {
+        "label": "Alle Zertifikate",
+        "ariaLabel": "Alle Zertifikate anzeigen"
+      },
+      "award": {
+        "label": "Auszeichnungen",
+        "ariaLabel": "Nach Auszeichnungen filtern"
+      },
+      "foodSafety": {
+        "label": "Lebensmittelsicherheit",
+        "ariaLabel": "Nach Lebensmittelsicherheitszertifikaten filtern"
+      }
+    }
+  },
+  "modal": {
+    "closeButton": "Modal schließen",
+    "close": "Schließen",
+    "closeModalButton": "Zertifikat-Modal schließen",
+    "visitWebsite": "Aussteller-Website besuchen",
+    "visitWebsiteButton": "Aussteller-Website besuchen",
+    "sections": {
+      "issuer": "AUSSTELLER",
+      "description": "BESCHREIBUNG",
+      "issueDate": "AUSSTELLUNGSDATUM",
+      "certificateType": "ZERTIFIKATTYP"
+    },
+    "typeLabels": {
+      "award": "Auszeichnung",
+      "foodSafety": "Lebensmittelsicherheit",
+      "certificate": "Zertifikat"
+    }
+  },
+  "certificates": {
+    "iso22000": {
+      "title": "Geschäftslizenz",
+      "issuer": "Handelskammer",
+      "date": "2023",
+      "description": "Offiziell registriertes und lizenziertes Kaffeeröstungs- und Exportgeschäft, konform mit allen geltenden Handelsgesetzen."
+    },
+    "organic": {
+      "title": "FSSC 22000 V6",
+      "issuer": "IRQS - India Register Quality Systems",
+      "date": "2023",
+      "description": "Eine von GSI anerkannte Lebensmittelsicherheitssystem-Zertifizierung"
+    },
+    "worldBest": {
+      "title": "FSPCA",
+      "issuer": "Vereinigung der Lebensmittel- und Arzneimittelbehörden",
+      "date": "2023",
+      "description": "Food Safety Preventive Controls Alliance"
+    },
+    "haccp": {
+      "title": "HACCP-Zertifizierung",
+      "issuer": "Internationale Lebensmittelsicherheitsbehörde",
+      "date": "2024",
+      "description": "Zertifizierung zur Gefahrenanalyse und kritischen Kontrollpunkten für die Kaffeeverarbeitung."
+    },
+    "goldQuality": {
+      "title": "Markenregistrierungszertifikat",
+      "issuer": "Amt für geistiges Eigentum",
+      "date": "2022",
+      "description": "Breva Coffee — eingetragene Marke"
+    },
+    "halal": {
+      "title": "Halal-Zertifiziert",
+      "issuer": "Islamischer Rat für Lebensmittel und Ernährung",
+      "date": "2023",
+      "description": "Halal-Zertifizierung für Kaffeeproduktion und -verarbeitung."
+    }
+  },
+  "card": {
+    "viewDetails": "Details ansehen",
+    "viewDetailsButton": "Details für {{title}} ansehen",
+    "typeLabels": {
+      "award": "Auszeichnung",
+      "foodSafety": "Lebensmittelsicherheit",
+      "organic": "Bio",
+      "quality": "Qualität"
+    }
+  }
+}

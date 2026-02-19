@@ -6,10 +6,10 @@ import CertificatesFilter from '../Certificates/CertFilter';
 import CertificateCard from '../Certificates/CertCard';
 import FeaturedCertificate from '../Certificates/FeaturedCertificate';
 import CertificateModal from '../Certificates/CertificateModal';
-import fscp from "../assets/Certs/4.jpg"
-import fsc from "../assets/Certs/3.jpg"
-import firsttrademark from "../assets/Certs/2.jpg"
-import secondtrademark from "../assets/Certs/1.jpg"
+import fscp from "../assets/about/1.webp"
+import fsc from "../assets/about/2.webp"
+import firsttrademark from "../assets/about/3.webp"
+import secondtrademark from "../assets/about/1.webp"
 const Certificates = () => {
   const { t } = useTranslation("certificates");
   const [filter, setFilter] = useState('all');

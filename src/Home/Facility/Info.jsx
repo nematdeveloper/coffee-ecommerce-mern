@@ -1,10 +1,13 @@
 import React, { useState, useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
-import firsts from "../../assets/facility/1.JPG"
-import first from "../../assets/facility/1.webp"
-import second from "../../assets/facility/2.webp"
-import forth from "../../assets/facility/4.webp"
-
+import firsts from "../../assets/about/5.JPG"
+import first from "../../assets/about/4.jpg"
+import second from "../../assets/about/6.jpg"
+import forth from "../../assets/about/7.jpg"
+import fifth from "../../assets/about/8.jpg"
+import sixth from "../../assets/about/9.jpg"
+import seventh from "../../assets/about/10.jpg"
+import eighth from "../../assets/about/11.jpg"
 const Data = [
   {
     image: firsts,
@@ -27,22 +30,22 @@ const Data = [
     informationKey: "info.saffron.freshHarvest.information",
   },
   {
-    image: forth,
+    image: fifth,
     titleKey: "info.saffron.traditionalCultivation.title",
     informationKey: "info.saffron.traditionalCultivation.information",
   },
   {
-    image: forth,
+    image:sixth,
     titleKey: "info.saffron.qualityTested.title",
     informationKey: "info.saffron.qualityTested.information",
   },
   {
-    image: forth,
+    image: seventh,
     titleKey: "info.saffron.sustainableSource.title",
     informationKey: "info.saffron.sustainableSource.information",
   },
   {
-    image: forth,
+    image: eighth,
     titleKey: "info.saffron.versatileUse.title",
     informationKey: "info.saffron.versatileUse.information",
   },

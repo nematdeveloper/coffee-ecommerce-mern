@@ -234,7 +234,7 @@ const FormAbout = () => {
           <div className="flex flex-wrap justify-center gap-6">
             {/* Facebook */}
             <a
-              href="https://www.facebook.com/rayansaffron"
+              href="https://www.facebook.com/brevacoffee"
               className="group w-32 p-6 bg-white rounded-2xl shadow-md transition-all duration-300 hover:-translate-y-3 hover:shadow-xl hover:rotate-1 hover:text-[#1877F2]"
               aria-label={t("social.facebook.ariaLabel")}
             >
@@ -248,7 +248,7 @@ const FormAbout = () => {
 
             {/* Instagram */}
             <a
-              href="https://www.instagram.com/rayan.saffron"
+              href="https://www.instagram.com/breave"
               className="group w-32 p-6 bg-white rounded-2xl shadow-md transition-all duration-300 hover:-translate-y-3 hover:shadow-xl hover:rotate-1 hover:text-[#E4405F]"
               aria-label={t("social.instagram.ariaLabel")}
             >
@@ -262,7 +262,7 @@ const FormAbout = () => {
 
             {/* LinkedIn */}
             <a
-              href="http://www.linkedin.com/in/rayansaffron"
+              href="https://www.linkedin.com/company/brevacoffee"
               className="group w-32 p-6 bg-white rounded-2xl shadow-md transition-all duration-300 hover:-translate-y-3 hover:shadow-xl hover:rotate-1 hover:text-[#0A66C2]"
               aria-label={t("social.linkedin.ariaLabel")}
             >
@@ -276,7 +276,7 @@ const FormAbout = () => {
 
             {/* Twitter */}
             <a
-              href="https://www.youtube.com/@rayansaffron"
+              href="https://www.youtube.com/brevacoffee"
               className="group w-32 p-6 bg-white rounded-2xl shadow-md transition-all duration-300 hover:-translate-y-3 hover:shadow-xl hover:rotate-1 hover:text-[#1DA1F2]"
               aria-label={t("social.twitter.ariaLabel")}
             >

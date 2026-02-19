@@ -1,14 +1,14 @@
 import { useState, useEffect } from 'react';
-import First from "../../assets/products/package/decor/1.jpg"
-import Second from "../../assets/products/package/azin/1.jpg"
-import Third from "../../assets/products/package/azin/3.jpg"
-import Forth from "../../assets/products/package/azin/4.jpg"
-import Fifth from "../../assets/products/package/metal/5.jpg"
-import Sexth from "../../assets/products/package/metal/7.jpg"
-import Seventh from "../../assets/about/11.webp"
-import Eighth from "../../assets/about/12.webp"
-import Ninth from "../../assets/about/13.webp"
-import Tenth from "../../assets/about/14.webp"
+import First from "../../assets/about/5.jpg"
+import Second from "../../assets/about/4.jpg"
+import Third from "../../assets/about/6.jpg"
+import Forth from "../../assets/about/7.jpg"
+import Fifth from "../../assets/about/8.jpg"
+import Sexth from "../../assets/about/9.jpg"
+import Seventh from "../../assets/about/11.jpg"
+import Eighth from "../../assets/about/12.jpg"
+import Ninth from "../../assets/about/13.jpg"
+import Tenth from "../../assets/about/14.jpg"
 const HeroCarousel = () => {
 const images = [
   { id: 1, src: First, alt: 'Saffron field' },

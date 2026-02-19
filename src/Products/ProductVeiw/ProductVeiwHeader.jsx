@@ -9,7 +9,7 @@ const VeiwHeader = () => {
       <div className="container mx-auto px-4">
         <div className="text-center py-6 md:py-8">
           <h1 className="text-2xl md:text-4xl font-bold inline-block px-6 md:px-48 py-3 md:py-4 text-white bg-white/10 backdrop-blur-sm rounded-lg w-full md:w-auto">
-          {t("products.productDetails")}
+          {t("products.productDetails")}                                                                    
           </h1>
         </div>
       </div>
